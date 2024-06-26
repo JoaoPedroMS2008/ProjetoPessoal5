@@ -360,6 +360,12 @@ h3.p1:hover {
   
     }
 
+    .principal3 {
+        justify-content: center;
+        align-items: center;
+        display: flex;
+    }
+
 
     .produtos {
         width: auto;
@@ -367,10 +373,16 @@ h3.p1:hover {
         margin: 20px;
         display: flex;
         align-items: center;
-        justify-content: space-between;
-      
-   
+       justify-content: space-between;
+    }
 
+    .produtos11 {
+        width: auto;
+        height: auto;
+        margin: 20px;
+        display: flex;
+        align-items: center;
+        justify-content: space-between;
     }
 
  .sho1 {
@@ -385,7 +397,7 @@ h3.p1:hover {
      background-color: rgb(252, 252, 252);
      padding: 10px;
      text-align: center;
-
+     margin-right: 100px;
      box-shadow: 2px 1px 10px rgba(0, 0, 0, 0.199);
     }
 
@@ -396,10 +408,44 @@ h3.p1:hover {
         background-color: rgb(252, 252, 252);
         padding: 10px;
         text-align: center;
+        margin-right: 100px;
         box-shadow: 2px 1px 10px rgba(0, 0, 0, 0.199);
        }
 
        .produtos3 {
+        align-items: center;
+        width: auto;
+        height: auto;
+        background-color: rgb(252, 252, 252);
+        padding: 10px;
+        text-align: center;
+        box-shadow: 2px 1px 10px rgba(0, 0, 0, 0.199);
+       }
+
+       .produtos4 {
+        align-items: center;
+        width: auto;
+        height: auto;
+        background-color: rgb(252, 252, 252);
+        padding: 10px;
+        margin-right: 100px;
+        text-align: center;
+        box-shadow: 2px 1px 10px rgba(0, 0, 0, 0.199);
+       }
+
+
+       .produtos5 {
+        align-items: center;
+        width: auto;
+        height: auto;
+        background-color: rgb(252, 252, 252);
+        padding: 10px;
+        margin-right: 100px;
+        text-align: center;
+        box-shadow: 2px 1px 10px rgba(0, 0, 0, 0.199);
+       }
+
+       .produtos6 {
         align-items: center;
         width: auto;
         height: auto;
@@ -470,6 +516,93 @@ h3.p1:hover {
          
              }
            }
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+           @media (max-width: 10000px) {
+
+            .produtos11{
+              
+                margin: 50px;
+        
+         
+             }
+         
+         }
+         
+    
+    
+         
+         @media (max-width: 1300px) {
+         
+             .produtos11{
+              
+                margin: 35px;
+          
+              }
+          
+          }
+    
+     
+    
+    
+    
+    
+         
+          @media (max-width: 800px) {
+         
+             .produtos11{
+                margin: 20px;
+          
+              }
+            }
+     
+    
+    
+    
+    
+            @media (max-width: 400px) {
+         
+                .produtos11{
+                    margin: 10px;
+                  
+    
+             
+                 }
+               }
+    
+    
+               @media (max-width: 200px) {
+         
+                .produtos11{
+                    margin: 5px;
+             
+                 }
+               }
+    
+
+
+
+
+
 
 
 
@@ -599,6 +732,7 @@ h3.p1:hover {
             height: 150px;
             width: 100px;
             font-size: 10px;
+            margin-right: 30px;
       
           }
         }
@@ -613,20 +747,20 @@ h3.p1:hover {
                height: 100px;
                width: 75px;
                font-size: 15px;
-              
+               margin-right: 5px;
 
          
              }
            }
 
 
-           @media (max-width: 223px) {
+           @media (max-width: 200px) {
      
             .produtos1{
                height: 50px;
                width: 25px;
                font-size: 5px;
-         
+               margin-right: 0;
              }
            }
 
@@ -695,7 +829,7 @@ h3.p1:hover {
                 height: 150px;
                 width: 100px;
                 font-size: 10px;
-          
+                margin-right: 30px;
               }
             }
      
@@ -709,7 +843,7 @@ h3.p1:hover {
                    height: 100px;
                    width: 75px;
                    font-size: 15px;
-    
+                   margin-right: 5px;
              
                  }
                }
@@ -721,7 +855,7 @@ h3.p1:hover {
                    height: 50px;
                    width: 25px;
                    font-size: 5px;
-             
+               margin-right: 0;
                  }
 
                 }
@@ -801,3 +935,241 @@ h3.p1:hover {
                          }
         
                         }
+
+
+
+
+
+
+
+
+
+
+
+                        @media (max-width: 10000px) {
+
+                            .produtos4{
+                                height: 270px;
+                                width: 210px;
+                        
+                         
+                             }
+                         
+                         }
+                         
+                    
+                    
+                         
+                         @media (max-width: 1300px) {
+                         
+                             .produtos4{
+                                height: 270px;
+                            width: 210px;
+                                 
+                          
+                              }
+                          
+                          }
+                    
+                     
+                    
+                    
+                    
+                    
+                         
+                          @media (max-width: 800px) {
+                         
+                             .produtos4{
+                                height: 150px;
+                                width: 100px;
+                                font-size: 10px;
+                                margin-right: 30px;
+                              }
+                            }
+                     
+                    
+                    
+                    
+                    
+                            @media (max-width: 400px) {
+                         
+                                .produtos4{
+                                   height: 100px;
+                                   width: 75px;
+                                   font-size: 15px;
+                                   margin-right: 5px;
+                             
+                                 }
+                               }
+                    
+                    
+                               @media (max-width: 200px) {
+                         
+                                .produtos4{
+                                   height: 50px;
+                                   width: 25px;
+                                   font-size: 5px;
+                               margin-right: 0;
+                                 }
+                
+                                }
+
+
+
+
+
+
+
+
+
+                                @media (max-width: 10000px) {
+
+                                    .produtos5{
+                                        height: 270px;
+                                        width: 210px;
+                                
+                                 
+                                     }
+                                 
+                                 }
+                                 
+                            
+                            
+                                 
+                                 @media (max-width: 1300px) {
+                                 
+                                     .produtos5{
+                                        height: 270px;
+                                    width: 210px;
+                                         
+                                  
+                                      }
+                                  
+                                  }
+                            
+                             
+                            
+                            
+                            
+                            
+                                 
+                                  @media (max-width: 800px) {
+                                 
+                                     .produtos5{
+                                        height: 150px;
+                                        width: 100px;
+                                        font-size: 10px;
+                                        margin-right: 30px;
+                                      }
+                                    }
+                             
+                            
+                            
+                            
+                            
+                                    @media (max-width: 400px) {
+                                 
+                                        .produtos5{
+                                           height: 100px;
+                                           width: 75px;
+                                           font-size: 15px;
+                                           margin-right: 5px;
+                                     
+                                         }
+                                       }
+                            
+                            
+                                       @media (max-width: 200px) {
+                                 
+                                        .produtos5{
+                                           height: 50px;
+                                           width: 25px;
+                                           font-size: 5px;
+                                       margin-right: 0;
+                                         }
+                        
+                                        }
+
+
+
+
+
+
+
+
+
+
+                                        @media (max-width: 10000px) {
+
+                                            .produtos6{
+                                                height: 270px;
+                                                width: 210px;
+                                        
+                                         
+                                             }
+                                         
+                                         }
+                                         
+                                    
+                                    
+                                         
+                                         @media (max-width: 1300px) {
+                                         
+                                             .produtos6{
+                                                height: 270px;
+                                            width: 210px;
+                                                 
+                                          
+                                              }
+                                          
+                                          }
+                                    
+                                     
+                                    
+                                    
+                                    
+                                    
+                                         
+                                          @media (max-width: 800px) {
+                                         
+                                             .produtos6{
+                                                height: 150px;
+                                                width: 100px;
+                                                font-size: 10px;
+
+                                              }
+                                            }
+                                     
+                                    
+                                    
+                                    
+                                    
+                                            @media (max-width: 400px) {
+                                         
+                                                .produtos6{
+                                                   height: 100px;
+                                                   width: 75px;
+                                                   font-size: 15px;
+
+                                             
+                                                 }
+                                               }
+                                    
+                                    
+                                               @media (max-width: 200px) {
+                                         
+                                                .produtos6{
+                                                   height: 50px;
+                                                   width: 25px;
+                                                   font-size: 5px;
+
+                                                 }
+                                
+                                                }
+                                
+                        
+                           
+
+
+
+                        
