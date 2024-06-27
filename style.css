@@ -43,22 +43,39 @@ body {
     justify-content: space-between;
     display: flex;
     color: white;
-
+    font-weight: 900;
     align-items: center;    
     font-family: Verdana, Geneva, Tahoma, sans-serif;
     font-size:10px;
 }
-@media (min-height: 220px) {
+@media (max-width: 100000px) {
 
     .contato{
         height: 20px;
-        font-size: 3px;
+        font-size: 15px;
  
      }
     }
 
 
-     @media (min-height: 440px) {
+     @media (max-width: 1300px) {
+
+        .contato{
+            height: 30px;
+            font-size: 13px;
+     
+         }
+ 
+ }
+ @media (max-width: 800px) {
+
+    .contato{
+        height: 30px;
+        font-size: 10px;
+ 
+     }
+
+     @media (max-width: 400px) {
 
         .contato{
             height: 30px;
@@ -67,6 +84,18 @@ body {
          }
  
  }
+
+ @media (max-width: 200px) {
+
+    .contato{
+        height: 30px;
+        font-size: 7px;
+ 
+     }
+
+}
+
+}
  
  
  .logoIMG {
@@ -241,11 +270,11 @@ box-shadow: 1px 1px 10px rgba(0, 0, 0, 0.123);
     cursor: pointer;
 }
 
-h3{
+h6{
     margin: 5px;
 }
 
-h3.p1:hover {
+h6.p1:hover {
     color: rgba(248, 248, 248, 0.219);
     transition: 0.2s;
 }
@@ -320,6 +349,51 @@ h3.p1:hover {
         align-items: center;
         justify-content: center;
     }
+
+        @media (max-width: 10000px) {
+
+            h3{
+                font-size: 20px;
+            
+             }
+            
+         }
+        
+         @media (max-width: 220px) {
+        
+            h3{
+                font-size: 3px;
+
+            
+             }
+         
+         }
+         
+         
+         @media (max-width: 860px) {
+         
+             h3{
+                font-size: 19px;
+
+          
+              }
+          
+          }
+         
+          @media (max-width: 420px) {
+         
+             h3{
+                 font-size: 12px;
+  
+        
+              }
+            }
+
+
+
+
+
+    
 
 .credito2 {
     background-image: linear-gradient(to bottom,rgba(0, 0, 0, 0.068), rgba(0, 0, 0, 0.26));
