@@ -1289,6 +1289,12 @@ h6.p1:hover {
         display: flex;
 }
 
+.bones2 {
+    justify-content: center;
+        align-items: center;
+        display: flex;
+}
+
 
 .produtos7 {
     align-items: center;
@@ -1399,6 +1405,10 @@ h6.p1:hover {
                         width: 139px;
                      }
                    }
+
+
+
+
 
 
 
@@ -1623,7 +1633,327 @@ h6.p1:hover {
                     
                     
                 
+    .bones3 {
+                    width: 420px;
+                    height: auto;
+                    margin: 20px;
+                    display: flex;
+                    align-items: center;
+                    justify-content: space-between;
+ 
+               }
+
+
+
+               @media (max-width: 10000px) {
+
+                .bones3{
+                  
+                    margin: 50px;
+                    width: 900px;
+            
+             
+                 }
+             
+             }
+             
+        
+        
+             
+             @media (max-width: 1300px) {
+             
+                 .bones3{
+                  
+                    margin: 35px;
+                   width: 870px;
+                  }
+              
+              }
+        
+         
+        
+        
+        
+        
+             
+              @media (max-width: 800px) {
+             
+                 .bones3{
+                    margin: 20px;
+                   width: 420px;
+                  }
+                }
+         
+        
+        
+        
+        
+                @media (max-width: 400px) {
+             
+                    .bones3{
+                        margin: 10px;
+                      width: 300px;
+        
+                 
+                     }
+                   }
+        
+        
+                   @media (max-width: 200px) {
+             
+                    .bones3{
+                        margin: 5px;
+                        width: 139px;
+                     }
+                   }            
+            
+            
+                   .produtos10 {
+                    align-items: center;
+                    width: auto;
+                    height: auto;
+                    background-color: rgb(252, 252, 252);
+                    padding: 10px;
+                    text-align: center;
+                    margin-right: 100px;
+                    box-shadow: 2px 1px 10px rgba(0, 0, 0, 0.199);
+                }
                 
+                .produtos111 {
+                    align-items: center;
+                    width: auto;
+                    height: auto;
+                    background-color: rgb(252, 252, 252);
+                    padding: 10px;
+                    text-align: center;
+                    margin-right: 100px;
+                    box-shadow: 2px 1px 10px rgba(0, 0, 0, 0.199);
+                }
+                
+                .produtos12 {
+                    align-items: center;
+                    width: auto;
+                    height: auto;
+                    background-color: rgb(252, 252, 252);
+                    padding: 10px;
+                    text-align: center;
+                    margin-right: 100px;
+                    box-shadow: 2px 1px 10px rgba(0, 0, 0, 0.199);
+                }
+
+
+
+
+                @media (max-width: 10000px) {
+
+                    .produtos10{
+                        height: 270px;
+                        width: 210px;
+                
+                 
+                     }
+                 
+                 }
+                 
             
             
-    
+                 
+                 @media (max-width: 1300px) {
+                 
+                     .produtos10{
+                        height: 270px;
+                    width: 210px;
+                         
+                  
+                      }
+                  
+                  }
+            
+             
+            
+            
+            
+            
+                 
+                  @media (max-width: 800px) {
+                 
+                     .produtos10{
+                        height: 150px;
+                        width: 100px;
+                        font-size: 10px;
+                        margin-right: 30px;
+                      }
+                    }
+             
+            
+            
+            
+            
+                    @media (max-width: 400px) {
+                 
+                        .produtos10{
+                           height: 100px;
+                           width: 75px;
+                           font-size: 15px;
+                           margin-right: 5px;
+                     
+                         }
+                       }
+            
+            
+                       @media (max-width: 200px) {
+                 
+                        .produtos10{
+                           height: 50px;
+                           width: 25px;
+                           font-size: 5px;
+                       margin-right: 0;
+                         }
+        
+                        }
+
+
+
+
+                        @media (max-width: 10000px) {
+
+                            .produtos111{
+                                height: 270px;
+                                width: 210px;
+                        
+                         
+                             }
+                         
+                         }
+                         
+                    
+                    
+                         
+                         @media (max-width: 1300px) {
+                         
+                             .produtos111{
+                                height: 270px;
+                            width: 210px;
+                                 
+                          
+                              }
+                          
+                          }
+                    
+                     
+                    
+                    
+                    
+                    
+                         
+                          @media (max-width: 800px) {
+                         
+                             .produtos111{
+                                height: 150px;
+                                width: 100px;
+                                font-size: 10px;
+                                margin-right: 30px;
+                              }
+                            }
+                     
+                    
+                    
+                    
+                    
+                            @media (max-width: 400px) {
+                         
+                                .produtos111{
+                                   height: 100px;
+                                   width: 75px;
+                                   font-size: 15px;
+                                   margin-right: 5px;
+                             
+                                 }
+                               }
+                    
+                    
+                               @media (max-width: 200px) {
+                         
+                                .produtos111{
+                                   height: 50px;
+                                   width: 25px;
+                                   font-size: 5px;
+                               margin-right: 0;
+                                 }
+                
+                                }
+                                
+        
+
+
+
+
+
+                                @media (max-width: 10000px) {
+
+                                    .produtos12{
+                                        height: 270px;
+                                        width: 210px;
+                                
+                                 
+                                     }
+                                 
+                                 }
+                                 
+                            
+                            
+                                 
+                                 @media (max-width: 1300px) {
+                                 
+                                     .produtos12{
+                                        height: 270px;
+                                    width: 210px;
+                                         
+                                  
+                                      }
+                                  
+                                  }
+                            
+                             
+                            
+                            
+                            
+                            
+                                 
+                                  @media (max-width: 800px) {
+                                 
+                                     .produtos12{
+                                        height: 150px;
+                                        width: 100px;
+                                        font-size: 10px;
+
+                                      }
+                                    }
+                             
+                            
+                            
+                            
+                            
+                                    @media (max-width: 400px) {
+                                 
+                                        .produtos12{
+                                           height: 100px;
+                                           width: 75px;
+                                           font-size: 15px;
+
+                                     
+                                         }
+                                       }
+                            
+                            
+                                       @media (max-width: 200px) {
+                                 
+                                        .produtos12{
+                                           height: 50px;
+                                           width: 25px;
+                                           font-size: 5px;
+
+                                         }
+                        
+                                        }
+                                            
