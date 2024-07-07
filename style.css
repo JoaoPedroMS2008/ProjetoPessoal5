@@ -4765,7 +4765,7 @@ h6.p1:hover {
                                                                                                                                             background-color: rgb(252, 252, 252);
                                                                                                                                             padding: 10px;
                                                                                                                                             text-align: center;
-                                                                                                                                            margin-right: 100px;
+                                                                                                                                            margin-right: 30px;
                                                                                                                                             box-shadow: 2px 1px 10px rgba(0, 0, 0, 0.199);
                                                                                                                                         }                                                   
 
@@ -4791,7 +4791,7 @@ h6.p1:hover {
                                                                                                                                              .produtos37{
                                                                                                                                                 height: 270px;
                                                                                                                                             width: 210px;
-                                                                                                                                                 
+                                                                                                                                                 margin-right: 100px;
                                                                                                                                           
                                                                                                                                               }
                                                                                                                                           
@@ -4809,7 +4809,7 @@ h6.p1:hover {
                                                                                                                                                 height: 150px;
                                                                                                                                                 width: 100px;
                                                                                                                                                 font-size: 10px;
-                                                                                                                                                margin-right: 30px;
+                                                                                                                                                margin-right: 10px;
                                                                                                                                               }
                                                                                                                                             }
                                                                                                                                      
@@ -4823,7 +4823,7 @@ h6.p1:hover {
                                                                                                                                                    height: 100px;
                                                                                                                                                    width: 75px;
                                                                                                                                                    font-size: 15px;
-                                                                                                                                                   margin-right: 5px;
+                                                                                                                                                   margin-right: 2px;
                                                                                                                                              
                                                                                                                                                  }
                                                                                                                                                }
@@ -4863,7 +4863,7 @@ h6.p1:hover {
                                                                                                                                                      .produtos38{
                                                                                                                                                         height: 270px;
                                                                                                                                                     width: 210px;
-                                                                                                                                                         
+                                                                                                                                                    margin-right: 0px;
                                                                                                                                                   
                                                                                                                                                       }
                                                                                                                                                   
@@ -4881,7 +4881,7 @@ h6.p1:hover {
                                                                                                                                                         height: 150px;
                                                                                                                                                         width: 100px;
                                                                                                                                                         font-size: 10px;
-                                                                                                                                                        margin-right: 30px;
+                                                                                                                                                       margin-right: 0px;
                                                                                                                                                       }
                                                                                                                                                     }
                                                                                                                                              
@@ -4895,7 +4895,7 @@ h6.p1:hover {
                                                                                                                                                            height: 100px;
                                                                                                                                                            width: 75px;
                                                                                                                                                            font-size: 15px;
-                                                                                                                                                           margin-right: 5px;
+                                                                                                                                
                                                                                                                                                      
                                                                                                                                                          }
                                                                                                                                                        }
@@ -4907,7 +4907,7 @@ h6.p1:hover {
                                                                                                                                                            height: 50px;
                                                                                                                                                            width: 25px;
                                                                                                                                                            font-size: 5px;
-                                                                                                                                                       margin-right: 0;
+                                                                                                                                          
                                                                                                                                                          }
                                                                                                                                         
                                                                                                                                                         }
