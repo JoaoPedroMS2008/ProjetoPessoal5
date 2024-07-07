@@ -1328,6 +1328,20 @@ h6.p1:hover {
         display: flex;
 }
 
+
+.camiseta3 {
+    justify-content: center;
+        align-items: center;
+        display: flex;
+}
+
+.camiseta4 {
+    justify-content: center;
+        align-items: center;
+        display: flex;
+}
+
+
 .produtos7 {
     align-items: center;
     width: auto;
@@ -3652,3 +3666,665 @@ h6.p1:hover {
                                                                                                                  }
                                                                                                 
                                                                                                                 }                                                                                           
+
+
+
+
+                                                                                                                .camisetas3 {
+                                                                                                                    width: 420px;
+                                                                                                                    height: auto;
+                                                                                                                    margin: 20px;
+                                                                                                                    display: flex;
+                                                                                                                    align-items: center;
+                                                                                                                    justify-content: space-between;                         
+                                                                                                               }
+                                                                                                
+                                                                                                
+                                                                                                
+                                                                                                               @media (max-width: 10000px) {
+                                                                                                
+                                                                                                                .camisetas3{
+                                                                                                                  
+                                                                                                                    margin: 50px;
+                                                                                                                    width: 900px;
+                                                                                                            
+                                                                                                             
+                                                                                                                 }
+                                                                                                             
+                                                                                                             }
+                                                                                                             
+                                                                                                        
+                                                                                                        
+                                                                                                             
+                                                                                                             @media (max-width: 1300px) {
+                                                                                                             
+                                                                                                                 .camisetas3{
+                                                                                                                  
+                                                                                                                    margin: 35px;
+                                                                                                                   width: 870px;
+                                                                                                                  }
+                                                                                                              
+                                                                                                              }
+                                                                                                        
+                                                                                                         
+                                                                                                        
+                                                                                                        
+                                                                                                        
+                                                                                                        
+                                                                                                             
+                                                                                                              @media (max-width: 800px) {
+                                                                                                             
+                                                                                                                 .camisetas3{
+                                                                                                                    margin: 20px;
+                                                                                                                   width: 420px;
+                                                                                                                  }
+                                                                                                                }
+                                                                                                         
+                                                                                                        
+                                                                                                        
+                                                                                                        
+                                                                                                        
+                                                                                                                @media (max-width: 400px) {
+                                                                                                             
+                                                                                                                    .camisetas3{
+                                                                                                                        margin: 10px;
+                                                                                                                      width: 300px;
+                                                                                                        
+                                                                                                                 
+                                                                                                                     }
+                                                                                                                   }
+                                                                                                        
+                                                                                                        
+                                                                                                                   @media (max-width: 200px) {
+                                                                                                             
+                                                                                                                    .camisetas3{
+                                                                                                                        margin: 5px;
+                                                                                                                        width: 139px;
+                                                                                                                     }
+                                                                                                                   }          
+
+
+
+                                                                                                                   .produtos28 {
+                                                                                                                    align-items: center;
+                                                                                                                    width: auto;
+                                                                                                                    height: auto;
+                                                                                                                    background-color: rgb(252, 252, 252);
+                                                                                                                    padding: 10px;
+                                                                                                                    text-align: center;
+                                                                                                                    margin-right: 100px;
+                                                                                                                    box-shadow: 2px 1px 10px rgba(0, 0, 0, 0.199);
+                                                                                                                }
+                                                                                                                
+                                                                                                                .produtos29 {
+                                                                                                                    align-items: center;
+                                                                                                                    width: auto;
+                                                                                                                    height: auto;
+                                                                                                                    background-color: rgb(252, 252, 252);
+                                                                                                                    padding: 10px;
+                                                                                                                    text-align: center;
+                                                                                                                    margin-right: 100px;
+                                                                                                                    box-shadow: 2px 1px 10px rgba(0, 0, 0, 0.199);
+                                                                                                                }
+                                                                                                                
+                                                                                                                .produtos30 {
+                                                                                                                    align-items: center;
+                                                                                                                    width: auto;
+                                                                                                                    height: auto;
+                                                                                                                    background-color: rgb(252, 252, 252);
+                                                                                                                    padding: 10px;
+                                                                                                                    text-align: center;
+                                                                                                                    margin-right: 100px;
+                                                                                                                    box-shadow: 2px 1px 10px rgba(0, 0, 0, 0.199);
+                                                                                                                }
+                                                                                                     
+                        
+                        
+                                                                                                                @media (max-width: 10000px) {
+                        
+                                                                                                                    .produtos28{
+                                                                                                                        height: 270px;
+                                                                                                                        width: 210px;
+                                                                                                                
+                                                                                                                 
+                                                                                                                     }
+                                                                                                                 
+                                                                                                                 }
+                                                                                                                 
+                                                                                                            
+                                                                                                            
+                                                                                                                 
+                                                                                                                 @media (max-width: 1300px) {
+                                                                                                                 
+                                                                                                                     .produtos28{
+                                                                                                                        height: 270px;
+                                                                                                                    width: 210px;
+                                                                                                                         
+                                                                                                                  
+                                                                                                                      }
+                                                                                                                  
+                                                                                                                  }
+                                                                                                            
+                                                                                                             
+                                                                                                            
+                                                                                                            
+                                                                                                            
+                                                                                                            
+                                                                                                                 
+                                                                                                                  @media (max-width: 800px) {
+                                                                                                                 
+                                                                                                                     .produtos28{
+                                                                                                                        height: 150px;
+                                                                                                                        width: 100px;
+                                                                                                                        font-size: 10px;
+                                                                                                                        margin-right: 30px;
+                                                                                                                      }
+                                                                                                                    }
+                                                                                                             
+                                                                                                            
+                                                                                                            
+                                                                                                            
+                                                                                                            
+                                                                                                                    @media (max-width: 400px) {
+                                                                                                                 
+                                                                                                                        .produtos28{
+                                                                                                                           height: 100px;
+                                                                                                                           width: 75px;
+                                                                                                                           font-size: 15px;
+                                                                                                                           margin-right: 5px;
+                                                                                                                     
+                                                                                                                         }
+                                                                                                                       }
+                                                                                                            
+                                                                                                            
+                                                                                                                       @media (max-width: 200px) {
+                                                                                                                 
+                                                                                                                        .produtos28{
+                                                                                                                           height: 50px;
+                                                                                                                           width: 25px;
+                                                                                                                           font-size: 5px;
+                                                                                                                       margin-right: 0;
+                                                                                                                         }
+                                                                                                        
+                                                                                                                        }
+                                                                        
+                                                                        
+                                                                        
+                                                                        
+                                                                        
+                                                                                                                        @media (max-width: 10000px) {
+                                                                        
+                                                                                                                            .produtos29{
+                                                                                                                                height: 270px;
+                                                                                                                                width: 210px;
+                                                                                                                        
+                                                                                                                         
+                                                                                                                             }
+                                                                                                                         
+                                                                                                                         }
+                                                                                                                         
+                                                                                                                    
+                                                                                                                    
+                                                                                                                         
+                                                                                                                         @media (max-width: 1300px) {
+                                                                                                                         
+                                                                                                                             .produtos29{
+                                                                                                                                height: 270px;
+                                                                                                                            width: 210px;
+                                                                                                                                 
+                                                                                                                          
+                                                                                                                              }
+                                                                                                                          
+                                                                                                                          }
+                                                                                                                    
+                                                                                                                     
+                                                                                                                    
+                                                                                                                    
+                                                                                                                    
+                                                                                                                    
+                                                                                                                         
+                                                                                                                          @media (max-width: 800px) {
+                                                                                                                         
+                                                                                                                             .produtos29{
+                                                                                                                                height: 150px;
+                                                                                                                                width: 100px;
+                                                                                                                                font-size: 10px;
+                                                                                                                                margin-right: 30px;
+                                                                                                                              }
+                                                                                                                            }
+                                                                                                                     
+                                                                                                                    
+                                                                                                                    
+                                                                                                                    
+                                                                                                                    
+                                                                                                                            @media (max-width: 400px) {
+                                                                                                                         
+                                                                                                                                .produtos29{
+                                                                                                                                   height: 100px;
+                                                                                                                                   width: 75px;
+                                                                                                                                   font-size: 15px;
+                                                                                                                                   margin-right: 5px;
+                                                                                                                             
+                                                                                                                                 }
+                                                                                                                               }
+                                                                                                                    
+                                                                                                                    
+                                                                                                                               @media (max-width: 200px) {
+                                                                                                                         
+                                                                                                                                .produtos29{
+                                                                                                                                   height: 50px;
+                                                                                                                                   width: 25px;
+                                                                                                                                   font-size: 5px;
+                                                                                                                               margin-right: 0;
+                                                                                                                                 }
+                                                                                                                
+                                                                                                                                }
+                                                                        
+                                                                        
+                                                                        
+                                                                        
+                                                                                                                                @media (max-width: 10000px) {
+                                                                        
+                                                                                                                                    .produtos30{
+                                                                                                                                        height: 270px;
+                                                                                                                                        width: 210px;
+                                                                                                                                
+                                                                                                                                 
+                                                                                                                                     }
+                                                                                                                                 
+                                                                                                                                 }
+                                                                                                                                 
+                                                                                                                            
+                                                                                                                            
+                                                                                                                                 
+                                                                                                                                 @media (max-width: 1300px) {
+                                                                                                                                 
+                                                                                                                                     .produtos30{
+                                                                                                                                        height: 270px;
+                                                                                                                                    width: 210px;
+                                                                                                                                         
+                                                                                                                                  
+                                                                                                                                      }
+                                                                                                                                  
+                                                                                                                                  }
+                                                                                                                            
+                                                                                                                             
+                                                                                                                            
+                                                                                                                            
+                                                                                                                            
+                                                                                                                            
+                                                                                                                                 
+                                                                                                                                  @media (max-width: 800px) {
+                                                                                                                                 
+                                                                                                                                     .produtos30{
+                                                                                                                                        height: 150px;
+                                                                                                                                        width: 100px;
+                                                                                                                                        font-size: 10px;
+                                                                                                                                  
+                                                                                                                                      }
+                                                                                                                                    }
+                                                                                                                             
+                                                                                                                            
+                                                                                                                            
+                                                                                                                            
+                                                                                                                            
+                                                                                                                                    @media (max-width: 400px) {
+                                                                                                                                 
+                                                                                                                                        .produtos30{
+                                                                                                                                           height: 100px;
+                                                                                                                                           width: 75px;
+                                                                                                                                           font-size: 15px;
+                                                                                                                                           margin-right: 5px;
+                                                                                                                                     
+                                                                                                                                         }
+                                                                                                                                       }
+                                                                                                                            
+                                                                                                                            
+                                                                                                                                       @media (max-width: 200px) {
+                                                                                                                                 
+                                                                                                                                        .produtos30{
+                                                                                                                                           height: 50px;
+                                                                                                                                           width: 25px;
+                                                                                                                                           font-size: 5px;
+                                                                                                                                       margin-right: 0;
+                                                                                                                                         }
+                                                                                                                        
+                                                                                                                                        }      
+                                                                                                                                        
+                                                                                                                                        
+
+
+
+
+
+
+
+
+
+
+
+
+                                                                                                                                        .camisetas4 {
+                                                                                                                                            width: 420px;
+                                                                                                                                            height: auto;
+                                                                                                                                            margin: 20px;
+                                                                                                                                            display: flex;
+                                                                                                                                            align-items: center;
+                                                                                                                                            justify-content: space-between;                         
+                                                                                                                                       }
+                                                                                                                        
+                                                                                                                        
+                                                                                                                        
+                                                                                                                                       @media (max-width: 10000px) {
+                                                                                                                        
+                                                                                                                                        .camisetas4{
+                                                                                                                                          
+                                                                                                                                            margin: 50px;
+                                                                                                                                            width: 900px;
+                                                                                                                                    
+                                                                                                                                     
+                                                                                                                                         }
+                                                                                                                                     
+                                                                                                                                     }
+                                                                                                                                     
+                                                                                                                                
+                                                                                                                                
+                                                                                                                                     
+                                                                                                                                     @media (max-width: 1300px) {
+                                                                                                                                     
+                                                                                                                                         .camisetas4{
+                                                                                                                                          
+                                                                                                                                            margin: 35px;
+                                                                                                                                           width: 870px;
+                                                                                                                                          }
+                                                                                                                                      
+                                                                                                                                      }
+                                                                                                                                
+                                                                                                                                 
+                                                                                                                                
+                                                                                                                                
+                                                                                                                                
+                                                                                                                                
+                                                                                                                                     
+                                                                                                                                      @media (max-width: 800px) {
+                                                                                                                                     
+                                                                                                                                         .camisetas4{
+                                                                                                                                            margin: 20px;
+                                                                                                                                           width: 420px;
+                                                                                                                                          }
+                                                                                                                                        }
+                                                                                                                                 
+                                                                                                                                
+                                                                                                                                
+                                                                                                                                
+                                                                                                                                
+                                                                                                                                        @media (max-width: 400px) {
+                                                                                                                                     
+                                                                                                                                            .camisetas4{
+                                                                                                                                                margin: 10px;
+                                                                                                                                              width: 300px;
+                                                                                                                                
+                                                                                                                                         
+                                                                                                                                             }
+                                                                                                                                           }
+                                                                                                                                
+                                                                                                                                
+                                                                                                                                           @media (max-width: 200px) {
+                                                                                                                                     
+                                                                                                                                            .camisetas4{
+                                                                                                                                                margin: 5px;
+                                                                                                                                                width: 139px;
+                                                                                                                                             }
+                                                                                                                                           }          
+                                                                                                
+                                                                                                
+                                                                                                                                           .produtos31 {
+                                                                                                                                            align-items: center;
+                                                                                                                                            width: auto;
+                                                                                                                                            height: auto;
+                                                                                                                                            background-color: rgb(252, 252, 252);
+                                                                                                                                            padding: 10px;
+                                                                                                                                            text-align: center;
+                                                                                                                                            margin-right: 100px;
+                                                                                                                                            box-shadow: 2px 1px 10px rgba(0, 0, 0, 0.199);
+                                                                                                                                        }
+                                                                                                                                        
+                                                                                                                                        .produtos32 {
+                                                                                                                                            align-items: center;
+                                                                                                                                            width: auto;
+                                                                                                                                            height: auto;
+                                                                                                                                            background-color: rgb(252, 252, 252);
+                                                                                                                                            padding: 10px;
+                                                                                                                                            text-align: center;
+                                                                                                                                            margin-right: 100px;
+                                                                                                                                            box-shadow: 2px 1px 10px rgba(0, 0, 0, 0.199);
+                                                                                                                                        }
+                                                                                                                                        
+                                                                                                                                        .produtos33 {
+                                                                                                                                            align-items: center;
+                                                                                                                                            width: auto;
+                                                                                                                                            height: auto;
+                                                                                                                                            background-color: rgb(252, 252, 252);
+                                                                                                                                            padding: 10px;
+                                                                                                                                            text-align: center;
+                                                                                                                                            margin-right: 100px;
+                                                                                                                                            box-shadow: 2px 1px 10px rgba(0, 0, 0, 0.199);
+                                                                                                                                        }
+                                                                                                
+                                                
+                                                
+                                                
+                                                
+                                                                                                                                        
+                                                                                                                @media (max-width: 10000px) {
+                                                
+                                                                                                                    .produtos31{
+                                                                                                                        height: 270px;
+                                                                                                                        width: 210px;
+                                                                                                                
+                                                                                                                 
+                                                                                                                     }
+                                                                                                                 
+                                                                                                                 }
+                                                                                                                 
+                                                                                                            
+                                                                                                            
+                                                                                                                 
+                                                                                                                 @media (max-width: 1300px) {
+                                                                                                                 
+                                                                                                                     .produtos31{
+                                                                                                                        height: 270px;
+                                                                                                                    width: 210px;
+                                                                                                                         
+                                                                                                                  
+                                                                                                                      }
+                                                                                                                  
+                                                                                                                  }
+                                                                                                            
+                                                                                                             
+                                                                                                            
+                                                                                                            
+                                                                                                            
+                                                                                                            
+                                                                                                                 
+                                                                                                                  @media (max-width: 800px) {
+                                                                                                                 
+                                                                                                                     .produtos31{
+                                                                                                                        height: 150px;
+                                                                                                                        width: 100px;
+                                                                                                                        font-size: 10px;
+                                                                                                                        margin-right: 30px;
+                                                                                                                      }
+                                                                                                                    }
+                                                                                                             
+                                                                                                            
+                                                                                                            
+                                                                                                            
+                                                                                                            
+                                                                                                                    @media (max-width: 400px) {
+                                                                                                                 
+                                                                                                                        .produtos31{
+                                                                                                                           height: 100px;
+                                                                                                                           width: 75px;
+                                                                                                                           font-size: 15px;
+                                                                                                                           margin-right: 5px;
+                                                                                                                     
+                                                                                                                         }
+                                                                                                                       }
+                                                                                                            
+                                                                                                            
+                                                                                                                       @media (max-width: 200px) {
+                                                                                                                 
+                                                                                                                        .produtos31{
+                                                                                                                           height: 50px;
+                                                                                                                           width: 25px;
+                                                                                                                           font-size: 5px;
+                                                                                                                       margin-right: 0;
+                                                                                                                         }
+                                                                                                        
+                                                                                                                        }
+                                                                        
+                                                                        
+                                                                        
+                                                                        
+                                                                        
+                                                                                                                        @media (max-width: 10000px) {
+                                                                        
+                                                                                                                            .produtos32{
+                                                                                                                                height: 270px;
+                                                                                                                                width: 210px;
+                                                                                                                        
+                                                                                                                         
+                                                                                                                             }
+                                                                                                                         
+                                                                                                                         }
+                                                                                                                         
+                                                                                                                    
+                                                                                                                    
+                                                                                                                         
+                                                                                                                         @media (max-width: 1300px) {
+                                                                                                                         
+                                                                                                                             .produtos32{
+                                                                                                                                height: 270px;
+                                                                                                                            width: 210px;
+                                                                                                                                 
+                                                                                                                          
+                                                                                                                              }
+                                                                                                                          
+                                                                                                                          }
+                                                                                                                    
+                                                                                                                     
+                                                                                                                    
+                                                                                                                    
+                                                                                                                    
+                                                                                                                    
+                                                                                                                         
+                                                                                                                          @media (max-width: 800px) {
+                                                                                                                         
+                                                                                                                             .produtos32{
+                                                                                                                                height: 150px;
+                                                                                                                                width: 100px;
+                                                                                                                                font-size: 10px;
+                                                                                                                                margin-right: 30px;
+                                                                                                                              }
+                                                                                                                            }
+                                                                                                                     
+                                                                                                                    
+                                                                                                                    
+                                                                                                                    
+                                                                                                                    
+                                                                                                                            @media (max-width: 400px) {
+                                                                                                                         
+                                                                                                                                .produtos32{
+                                                                                                                                   height: 100px;
+                                                                                                                                   width: 75px;
+                                                                                                                                   font-size: 15px;
+                                                                                                                                   margin-right: 5px;
+                                                                                                                             
+                                                                                                                                 }
+                                                                                                                               }
+                                                                                                                    
+                                                                                                                    
+                                                                                                                               @media (max-width: 200px) {
+                                                                                                                         
+                                                                                                                                .produtos32{
+                                                                                                                                   height: 50px;
+                                                                                                                                   width: 25px;
+                                                                                                                                   font-size: 5px;
+                                                                                                                               margin-right: 0;
+                                                                                                                                 }
+                                                                                                                
+                                                                                                                                }
+                                                                        
+                                                                        
+                                                                        
+                                                                        
+                                                                                                                                @media (max-width: 10000px) {
+                                                                        
+                                                                                                                                    .produtos33{
+                                                                                                                                        height: 270px;
+                                                                                                                                        width: 210px;
+                                                                                                                                
+                                                                                                                                 
+                                                                                                                                     }
+                                                                                                                                 
+                                                                                                                                 }
+                                                                                                                                 
+                                                                                                                            
+                                                                                                                            
+                                                                                                                                 
+                                                                                                                                 @media (max-width: 1300px) {
+                                                                                                                                 
+                                                                                                                                     .produtos33{
+                                                                                                                                        height: 270px;
+                                                                                                                                    width: 210px;
+                                                                                                                                         
+                                                                                                                                  
+                                                                                                                                      }
+                                                                                                                                  
+                                                                                                                                  }
+                                                                                                                            
+                                                                                                                             
+                                                                                                                            
+                                                                                                                            
+                                                                                                                            
+                                                                                                                            
+                                                                                                                                 
+                                                                                                                                  @media (max-width: 800px) {
+                                                                                                                                 
+                                                                                                                                     .produtos33{
+                                                                                                                                        height: 150px;
+                                                                                                                                        width: 100px;
+                                                                                                                                        font-size: 10px;
+                                                                                                                                  
+                                                                                                                                      }
+                                                                                                                                    }
+                                                                                                                             
+                                                                                                                            
+                                                                                                                            
+                                                                                                                            
+                                                                                                                            
+                                                                                                                                    @media (max-width: 400px) {
+                                                                                                                                 
+                                                                                                                                        .produtos33{
+                                                                                                                                           height: 100px;
+                                                                                                                                           width: 75px;
+                                                                                                                                           font-size: 15px;
+                                                                                                                                           margin-right: 5px;
+                                                                                                                                     
+                                                                                                                                         }
+                                                                                                                                       }
+                                                                                                                            
+                                                                                                                            
+                                                                                                                                       @media (max-width: 200px) {
+                                                                                                                                 
+                                                                                                                                        .produtos33{
+                                                                                                                                           height: 50px;
+                                                                                                                                           width: 25px;
+                                                                                                                                           font-size: 5px;
+                                                                                                                                       margin-right: 0;
+                                                                                                                                         }
+                                                                                                                        
+                                                                                                                                        }         
+                                                                   
+                        
