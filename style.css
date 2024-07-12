@@ -352,7 +352,7 @@ h6.p1:hover {
         display: flex;
         width: auto;
         align-items: center;
-        background-image: radial-gradient(circle,rgba(0, 0, 0, 0.274),rgb(241, 241, 241));
+        background-image: radial-gradient(circle,rgba(0, 0, 0, 0.274),rgb(255, 255, 255));
         border-radius: 20px;
         justify-content: center;
     }
@@ -1303,7 +1303,7 @@ h6.p1:hover {
     justify-content: center;
         align-items: center;
         display: flex;
-        background-image: radial-gradient(circle,rgba(0, 0, 0, 0.295),rgb(241, 241, 241));
+        background-image: radial-gradient(circle,rgba(0, 0, 0, 0.295),rgb(255, 255, 255));
 }
 
 .moleton1 {
@@ -1318,7 +1318,7 @@ h6.p1:hover {
     justify-content: center;
         align-items: center;
         display: flex;
-        background-image: radial-gradient(circle,rgba(0, 0, 0, 0.295),rgb(241, 241, 241));
+        background-image: radial-gradient(circle,rgba(0, 0, 0, 0.295),rgb(255, 255, 255));
 }
 
 .moleton3 {
@@ -1331,7 +1331,7 @@ h6.p1:hover {
     justify-content: center;
         align-items: center;
         display: flex;
-        background-image: radial-gradient(circle,rgba(0, 0, 0, 0.295),rgb(241, 241, 241));
+        background-image: radial-gradient(circle,rgba(0, 0, 0, 0.295),rgb(255, 255, 255));
 }
 
 
@@ -1347,7 +1347,7 @@ h6.p1:hover {
     justify-content: center;
         align-items: center;
         display: flex;
-        background-image: radial-gradient(circle,rgba(0, 0, 0, 0.295),rgb(241, 241, 241));
+        background-image: radial-gradient(circle,rgba(0, 0, 0, 0.295),rgb(255, 255, 255));
 }
 
 .camiseta4 {
@@ -1361,7 +1361,7 @@ h6.p1:hover {
     justify-content: center;
         align-items: center;
         display: flex;
-        background-image: radial-gradient(circle,rgba(0, 0, 0, 0.295),rgb(241, 241, 241));
+        background-image: radial-gradient(circle,rgba(0, 0, 0, 0.295),rgb(255, 255, 255));
 }
 
 .colar2 {
@@ -1375,7 +1375,7 @@ h6.p1:hover {
     justify-content: center;
         align-items: center;
         display: flex;
-        background-image: radial-gradient(circle,rgba(0, 0, 0, 0.295),rgb(241, 241, 241));
+        background-image: radial-gradient(circle,rgba(0, 0, 0, 0.295),rgb(255, 255, 255));
 }
 
 .calsa2 {
