@@ -1878,18 +1878,8 @@ function produto49() {
 
 
 function produto50() {
-  location.href = 'https://s.shopee.com.br/6pgKZK0BjH'
+  location.href = 'https://s.shopee.com.br/7UvzherFNA'
 }
-
-
-
-
-
-
-
-
-
-
 
 
 
@@ -1957,55 +1947,7 @@ function produto51() {
 
 
 
-
-
-
-
-
-
 function produto52() {
-  location.href = 'https://s.shopee.com.br/3An0XpiFNC'
-}
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-function produto53() {
   location.href = 'https://s.shopee.com.br/6fMrLkeYTv'
 }
 
@@ -2029,28 +1971,6 @@ function produto53() {
 
 
 
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-function produto54() {
-  location.href = 'https://s.shopee.com.br/3fjFluxVMp'
-}
 
 
 
