@@ -1,0 +1,179 @@
+@media (max-width: 100000px) {
+
+    .vestimenta{
+        width: 100px;
+        height: 25px;
+        font-size: 10px;
+ 
+     }
+    }
+
+
+     @media (max-width: 1300px) {
+
+        .vestimenta{
+            width: 100px;
+            height: 25px;
+            font-size: 10px;
+         }
+ 
+ }
+ @media (max-width: 800px) {
+
+    .vestimenta{
+        width: 60px;
+        height: 15px;
+        font-size: 6px;
+ 
+     }
+    }
+     @media (max-width: 400px) {
+
+        .vestimenta{
+            width: 50px;
+            height: 15px;
+            font-size: 5px;
+     
+         }
+ 
+ }
+
+ @media (max-width: 200px) {
+
+    .vestimenta{
+        width: 30px;
+        height: 10px;
+        font-size: 3px;
+        border-radius: 0px 0px 5px 5px;
+ 
+     }
+
+}
+
+
+
+
+
+@media (max-width: 100000px) {
+
+    .domestico{
+        width: 100px;
+        height: 25px;
+        font-size: 10px;
+ 
+     }
+    }
+
+
+     @media (max-width: 1300px) {
+
+        .domestico{
+            width: 100px;
+            height: 25px;
+            font-size: 10px;
+         }
+ 
+ }
+ @media (max-width: 800px) {
+
+    .domestico{
+        width: 60px;
+        height: 15px;
+        font-size: 6px;
+
+ 
+     }
+    }
+     @media (max-width: 400px) {
+
+        .domestico{
+            width: 50px;
+            height: 15px;
+            font-size: 5px;
+     
+         }
+ 
+ }
+
+ @media (max-width: 200px) {
+
+    .domestico{
+        width: 30px;
+        height: 10px;
+        font-size: 3px;
+        border-radius: 0px 0px 5px 5px;
+ 
+     }
+
+}
+
+
+
+@media (max-width: 100000px) {
+
+    .classes{
+        margin-top: -3px;
+ 
+     }
+    }
+
+
+     @media (max-width: 1300px) {
+
+        .classes{
+            margin-top: -3px;
+         }
+ 
+ }
+ @media (max-width: 800px) {
+
+    .classes{
+        margin-top: -6px;
+ 
+     }
+    }
+     @media (max-width: 460px) {
+
+        .classes{
+
+            margin-top: -16px;
+         }
+ 
+ }
+
+ @media (max-width: 420px) {
+
+    .classes{
+ 
+        margin-top: -3px;
+     }
+
+}
+
+@media (max-width: 345px) {
+
+    .classes{
+ 
+        margin-top: -8px;
+     }
+
+}
+
+@media (max-width: 205px) {
+
+    .classes{
+ 
+        margin-top: -15px;
+     }
+
+}
+
+
+@media (max-width: 199px) {
+
+    .classes{
+ 
+        margin-top: -20px;
+     }
+
+}

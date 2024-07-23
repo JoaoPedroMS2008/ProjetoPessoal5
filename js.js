@@ -1,3 +1,13 @@
+function domestico() {
+  location.href = "index2.html"
+}
+
+
+
+
+
+
+
 function findsking() {
 
 
