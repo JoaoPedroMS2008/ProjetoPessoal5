@@ -3,6 +3,10 @@ function domestico() {
 }
 
 
+function vestimenta() {
+  location.href = "index.html"
+}
+
 
 
 
