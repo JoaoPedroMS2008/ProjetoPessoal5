@@ -1391,6 +1391,9 @@ h6.p1:hover {
     
 }
 
+
+
+
 .moleton2 {
     justify-content: center;
         align-items: center;
@@ -1404,6 +1407,17 @@ h6.p1:hover {
         display: flex;
         background-image: radial-gradient(circle,rgba(0, 0, 0, 0.295),rgb(255, 255, 255));
 }
+
+.moleton4 {
+  justify-content: center;
+      align-items: center;
+      display: flex;
+
+
+  
+}
+
+
 
 .camiseta1 {
     justify-content: center;
@@ -1436,6 +1450,15 @@ h6.p1:hover {
         background-image: radial-gradient(circle,rgba(0, 0, 0, 0.295),rgb(255, 255, 255));
  
 }
+
+.camiseta5 {
+  justify-content: center;
+      align-items: center;
+      display: flex;
+
+
+}
+
 
 .colar1 {
     justify-content: center;
@@ -6678,7 +6701,659 @@ h6.p1:hover {
                                                                                                                                       }
                                                                                                             
                                                                                       
+
+
+
+                                                                                                                                      .camisetas5 {
+                                                                                                                                        width: 420px;
+                                                                                                                                        height: auto;
+                                                                                                                                        margin: 20px;
+                                                                                                                                        display: flex;
+                                                                                                                                        align-items: center;
+                                                                                                                                        justify-content: space-between;                         
+                                                                                                                                   }
+                                                                                                                    
+                                                                                                                    
+                                                                                                                    
+                                                                                                                                   @media (max-width: 10000px) {
+                                                                                                                    
+                                                                                                                                    .camisetas5{
+                                                                                                                                      
+                                                                                                                                        margin: 50px;
+                                                                                                                                        width: 900px;
+                                                                                                                                
+                                                                                                                                 
+                                                                                                                                     }
+                                                                                                                                 
+                                                                                                                                 }
+                                                                                                                                 
+                                                                                                                            
+                                                                                                                            
+                                                                                                                                 
+                                                                                                                                 @media (max-width: 1300px) {
+                                                                                                                                 
+                                                                                                                                     .camisetas5{
+                                                                                                                                      
+                                                                                                                                        margin: 35px;
+                                                                                                                                       width: 870px;
+                                                                                                                                      }
+                                                                                                                                  
+                                                                                                                                  }
+                                                                                                                            
+                                                                                                                             
+                                                                                                                            
+                                                                                                                            
+                                                                                                                            
+                                                                                                                            
+                                                                                                                                 
+                                                                                                                                  @media (max-width: 800px) {
+                                                                                                                                 
+                                                                                                                                     .camisetas5{
+                                                                                                                                        margin: 20px;
+                                                                                                                                       width: 420px;
+                                                                                                                                      }
+                                                                                                                                    }
+                                                                                                                             
+                                                                                                                            
+                                                                                                                            
+                                                                                                                            
+                                                                                                                            
+                                                                                                                                    @media (max-width: 400px) {
+                                                                                                                                 
+                                                                                                                                        .camisetas5{
+                                                                                                                                            margin: 10px;
+                                                                                                                                          width: 300px;
+                                                                                                                            
+                                                                                                                                     
+                                                                                                                                         }
+                                                                                                                                       }
+                                                                                                                            
+                                                                                                                            
+                                                                                                                                       @media (max-width: 200px) {
+                                                                                                                                 
+                                                                                                                                        .camisetas5{
+                                                                                                                                            margin: 5px;
+                                                                                                                                            width: 139px;
+                                                                                                                                         }
+                                                                                                                                       }          
+                                                                                            
+                                                                                            
+                                                                                                                                       .produtos54 {
+                                                                                                                                        align-items: center;
+                                                                                                                                        width: auto;
+                                                                                                                                        height: auto;
+                                                                                                                                        background-color: rgb(252, 252, 252);
+                                                                                                                                        padding: 10px;
+                                                                                                                                        text-align: center;
+                                                                                                                                        margin-right: 100px;
+                                                                                                                                        box-shadow: 2px 1px 10px rgba(0, 0, 0, 0.199);
+                                                                                                                                    }
+                                                                                                                                    
+                                                                                                                                    .produtos55 {
+                                                                                                                                        align-items: center;
+                                                                                                                                        width: auto;
+                                                                                                                                        height: auto;
+                                                                                                                                        background-color: rgb(255, 255, 255);
+                                                                                                                                        padding: 10px;
+                                                                                                                                        text-align: center;
+                                                                                                                                        margin-right: 100px;
+                                                                                                                                        box-shadow: 2px 1px 10px rgba(0, 0, 0, 0.199);
+                                                                                                                                    }
+                                                                                                                                    
+                                                                                                                                    .produtos56 {
+                                                                                                                                        align-items: center;
+                                                                                                                                        width: auto;
+                                                                                                                                        height: auto;
+                                                                                                                                        background-color: rgb(252, 252, 252);
+                                                                                                                                        padding: 10px;
+                                                                                                                                        text-align: center;
+                                                                                                                                        margin-right: 100px;
+                                                                                                                                        box-shadow: 2px 1px 10px rgba(0, 0, 0, 0.199);
+                                                                                                                                    }
+                                                                                            
+                                            
+                                            
+                                            
+                                            
+                                                                                                                                    
+                                                                                                            @media (max-width: 10000px) {
+                                            
+                                                                                                                .produtos54{
+                                                                                                                    height: 270px;
+                                                                                                                    width: 210px;
                                                                                                             
+                                                                                                             
+                                                                                                                 }
+                                                                                                             
+                                                                                                             }
+                                                                                                             
+                                                                                                        
+                                                                                                        
+                                                                                                             
+                                                                                                             @media (max-width: 1300px) {
+                                                                                                             
+                                                                                                                 .produtos54{
+                                                                                                                    height: 270px;
+                                                                                                                width: 210px;
+                                                                                                                     
+                                                                                                              
+                                                                                                                  }
+                                                                                                              
+                                                                                                              }
+                                                                                                        
+                                                                                                         
+                                                                                                        
+                                                                                                        
+                                                                                                        
+                                                                                                        
+                                                                                                             
+                                                                                                              @media (max-width: 800px) {
+                                                                                                             
+                                                                                                                 .produtos54{
+                                                                                                                    height: 150px;
+                                                                                                                    width: 100px;
+                                                                                                                    font-size: 10px;
+                                                                                                                    margin-right: 30px;
+                                                                                                                  }
+                                                                                                                }
+                                                                                                         
+                                                                                                        
+                                                                                                        
+                                                                                                        
+                                                                                                        
+                                                                                                                @media (max-width: 400px) {
+                                                                                                             
+                                                                                                                    .produtos54{
+                                                                                                                       height: 100px;
+                                                                                                                       width: 75px;
+                                                                                                                       font-size: 15px;
+                                                                                                                       margin-right: 5px;
+                                                                                                                 
+                                                                                                                     }
+                                                                                                                   }
+                                                                                                        
+                                                                                                        
+                                                                                                                   @media (max-width: 200px) {
+                                                                                                             
+                                                                                                                    .produtos54{
+                                                                                                                       height: 50px;
+                                                                                                                       width: 25px;
+                                                                                                                       font-size: 5px;
+                                                                                                                   margin-right: 0;
+                                                                                                                     }
+                                                                                                    
+                                                                                                                    }
+                                                                    
+                                                                    
+                                                                    
+                                                                    
+                                                                    
+                                                                                                                    @media (max-width: 10000px) {
+                                                                    
+                                                                                                                        .produtos55{
+                                                                                                                            height: 270px;
+                                                                                                                            width: 210px;
+                                                                                                                    
+                                                                                                                     
+                                                                                                                         }
+                                                                                                                     
+                                                                                                                     }
+                                                                                                                     
+                                                                                                                
+                                                                                                                
+                                                                                                                     
+                                                                                                                     @media (max-width: 1300px) {
+                                                                                                                     
+                                                                                                                         .produtos55{
+                                                                                                                            height: 270px;
+                                                                                                                        width: 210px;
+                                                                                                                             
+                                                                                                                      
+                                                                                                                          }
+                                                                                                                      
+                                                                                                                      }
+                                                                                                                
+                                                                                                                 
+                                                                                                                
+                                                                                                                
+                                                                                                                
+                                                                                                                
+                                                                                                                     
+                                                                                                                      @media (max-width: 800px) {
+                                                                                                                     
+                                                                                                                         .produtos55{
+                                                                                                                            height: 150px;
+                                                                                                                            width: 100px;
+                                                                                                                            font-size: 10px;
+                                                                                                                            margin-right: 30px;
+                                                                                                                          }
+                                                                                                                        }
+                                                                                                                 
+                                                                                                                
+                                                                                                                
+                                                                                                                
+                                                                                                                
+                                                                                                                        @media (max-width: 400px) {
+                                                                                                                     
+                                                                                                                            .produtos55{
+                                                                                                                               height: 100px;
+                                                                                                                               width: 75px;
+                                                                                                                               font-size: 15px;
+                                                                                                                               margin-right: 5px;
+                                                                                                                         
+                                                                                                                             }
+                                                                                                                           }
+                                                                                                                
+                                                                                                                
+                                                                                                                           @media (max-width: 200px) {
+                                                                                                                     
+                                                                                                                            .produtos55{
+                                                                                                                               height: 50px;
+                                                                                                                               width: 25px;
+                                                                                                                               font-size: 5px;
+                                                                                                                           margin-right: 0;
+                                                                                                                             }
+                                                                                                            
+                                                                                                                            }
+                                                                    
+                                                                    
+                                                                    
+                                                                    
+                                                                                                                            @media (max-width: 10000px) {
+                                                                    
+                                                                                                                                .produtos56{
+                                                                                                                                    height: 270px;
+                                                                                                                                    width: 210px;
+                                                                                                                            
+                                                                                                                             
+                                                                                                                                 }
+                                                                                                                             
+                                                                                                                             }
+                                                                                                                             
+                                                                                                                        
+                                                                                                                        
+                                                                                                                             
+                                                                                                                             @media (max-width: 1300px) {
+                                                                                                                             
+                                                                                                                                 .produtos56{
+                                                                                                                                    height: 270px;
+                                                                                                                                width: 210px;
+                                                                                                                                     
+                                                                                                                              
+                                                                                                                                  }
+                                                                                                                              
+                                                                                                                              }
+                                                                                                                        
+                                                                                                                         
+                                                                                                                        
+                                                                                                                        
+                                                                                                                        
+                                                                                                                        
+                                                                                                                             
+                                                                                                                              @media (max-width: 800px) {
+                                                                                                                             
+                                                                                                                                 .produtos56{
+                                                                                                                                    height: 150px;
+                                                                                                                                    width: 100px;
+                                                                                                                                    font-size: 10px;
+                                                                                                                              
+                                                                                                                                  }
+                                                                                                                                }
+                                                                                                                         
+                                                                                                                        
+                                                                                                                        
+                                                                                                                        
+                                                                                                                        
+                                                                                                                                @media (max-width: 400px) {
+                                                                                                                             
+                                                                                                                                    .produtos56{
+                                                                                                                                       height: 100px;
+                                                                                                                                       width: 75px;
+                                                                                                                                       font-size: 15px;
+                                                                                                                                       margin-right: 5px;
+                                                                                                                                 
+                                                                                                                                     }
+                                                                                                                                   }
+                                                                                                                        
+                                                                                                                        
+                                                                                                                                   @media (max-width: 200px) {
+                                                                                                                             
+                                                                                                                                    .produtos56{
+                                                                                                                                       height: 50px;
+                                                                                                                                       width: 25px;
+                                                                                                                                       font-size: 5px;
+                                                                                                                                   margin-right: 0;
+                                                                                                                                     }
+                                                                                                                    
+                                                                                                                                    }         
+                                                                                                            
+
+
+
+
+                                                                                                                                    .moletons4 {
+                                                                                                                                      width: 420px;
+                                                                                                                                      height: auto;
+                                                                                                                                      margin: 20px;
+                                                                                                                                      display: flex;
+                                                                                                                                      align-items: center;
+                                                                                                                                      justify-content: space-between;                         
+                                                                                                                                 }
+                                                                                                                  
+                                                                                                                  
+                                                                                                                  
+                                                                                                                                 @media (max-width: 10000px) {
+                                                                                                                  
+                                                                                                                                  .moletons4{
+                                                                                                                                    
+                                                                                                                                      margin: 50px;
+                                                                                                                                      width: 900px;
+                                                                                                                              
+                                                                                                                               
+                                                                                                                                   }
+                                                                                                                               
+                                                                                                                               }
+                                                                                                                               
+                                                                                                                          
+                                                                                                                          
+                                                                                                                               
+                                                                                                                               @media (max-width: 1300px) {
+                                                                                                                               
+                                                                                                                                   .moletons4{
+                                                                                                                                    
+                                                                                                                                      margin: 35px;
+                                                                                                                                     width: 870px;
+                                                                                                                                    }
+                                                                                                                                
+                                                                                                                                }
+                                                                                                                          
+                                                                                                                           
+                                                                                                                          
+                                                                                                                          
+                                                                                                                          
+                                                                                                                          
+                                                                                                                               
+                                                                                                                                @media (max-width: 800px) {
+                                                                                                                               
+                                                                                                                                   .moletons4{
+                                                                                                                                      margin: 20px;
+                                                                                                                                     width: 420px;
+                                                                                                                                    }
+                                                                                                                                  }
+                                                                                                                           
+                                                                                                                          
+                                                                                                                          
+                                                                                                                          
+                                                                                                                          
+                                                                                                                                  @media (max-width: 400px) {
+                                                                                                                               
+                                                                                                                                      .moletons4{
+                                                                                                                                          margin: 10px;
+                                                                                                                                        width: 300px;
+                                                                                                                          
+                                                                                                                                   
+                                                                                                                                       }
+                                                                                                                                     }
+                                                                                                                          
+                                                                                                                          
+                                                                                                                                     @media (max-width: 200px) {
+                                                                                                                               
+                                                                                                                                      .moletons4{
+                                                                                                                                          margin: 5px;
+                                                                                                                                          width: 139px;
+                                                                                                                                       }
+                                                                                                                                     }          
+                                                                                          
+                                                                                          
+                                          
+                                                                                                                                     .produtos57 {
+                                                                                                                                      align-items: center;
+                                                                                                                                      width: auto;
+                                                                                                                                      height: auto;
+                                                                                                                                      background-color: rgb(252, 252, 252);
+                                                                                                                                      padding: 10px;
+                                                                                                                                      text-align: center;
+                                                                                                                                      margin-right: 100px;
+                                                                                                                                      box-shadow: 2px 1px 10px rgba(0, 0, 0, 0.199);
+                                                                                                                                  }
+                                                                                                                                  
+                                                                                                                                  .produtos58 {
+                                                                                                                                      align-items: center;
+                                                                                                                                      width: auto;
+                                                                                                                                      height: auto;
+                                                                                                                                      background-color: rgb(252, 252, 252);
+                                                                                                                                      padding: 10px;
+                                                                                                                                      text-align: center;
+                                                                                                                                      margin-right: 100px;
+                                                                                                                                      box-shadow: 2px 1px 10px rgba(0, 0, 0, 0.199);
+                                                                                                                                  }
+                                                                                                                                  
+                                                                                                                                  .produtos59 {
+                                                                                                                                      align-items: center;
+                                                                                                                                      width: auto;
+                                                                                                                                      height: auto;
+                                                                                                                                      background-color: rgb(252, 252, 252);
+                                                                                                                                      padding: 10px;
+                                                                                                                                      text-align: center;
+                                                                                                                                      margin-right: 100px;
+                                                                                                                                      box-shadow: 2px 1px 10px rgba(0, 0, 0, 0.199);
+                                                                                                                                  }
+                                                                                          
+                                          
+                                          
+                                          
+                                          
+                                                                                                                                  
+                                                                                                          @media (max-width: 10000px) {
+                                          
+                                                                                                              .produtos57{
+                                                                                                                  height: 270px;
+                                                                                                                  width: 210px;
+                                                                                                          
+                                                                                                           
+                                                                                                               }
+                                                                                                           
+                                                                                                           }
+                                                                                                           
+                                                                                                      
+                                                                                                      
+                                                                                                           
+                                                                                                           @media (max-width: 1300px) {
+                                                                                                           
+                                                                                                               .produtos57{
+                                                                                                                  height: 270px;
+                                                                                                              width: 210px;
+                                                                                                                   
+                                                                                                            
+                                                                                                                }
+                                                                                                            
+                                                                                                            }
+                                                                                                      
+                                                                                                       
+                                                                                                      
+                                                                                                      
+                                                                                                      
+                                                                                                      
+                                                                                                           
+                                                                                                            @media (max-width: 800px) {
+                                                                                                           
+                                                                                                               .produtos57{
+                                                                                                                  height: 150px;
+                                                                                                                  width: 100px;
+                                                                                                                  font-size: 10px;
+                                                                                                                  margin-right: 30px;
+                                                                                                                }
+                                                                                                              }
+                                                                                                       
+                                                                                                      
+                                                                                                      
+                                                                                                      
+                                                                                                      
+                                                                                                              @media (max-width: 400px) {
+                                                                                                           
+                                                                                                                  .produtos57{
+                                                                                                                     height: 100px;
+                                                                                                                     width: 75px;
+                                                                                                                     font-size: 15px;
+                                                                                                                     margin-right: 5px;
+                                                                                                               
+                                                                                                                   }
+                                                                                                                 }
+                                                                                                      
+                                                                                                      
+                                                                                                                 @media (max-width: 200px) {
+                                                                                                           
+                                                                                                                  .produtos57{
+                                                                                                                     height: 50px;
+                                                                                                                     width: 25px;
+                                                                                                                     font-size: 5px;
+                                                                                                                 margin-right: 0;
+                                                                                                                   }
+                                                                                                  
+                                                                                                                  }
+                                                                  
+                                                                  
+                                                                  
+                                                                  
+                                                                  
+                                                                                                                  @media (max-width: 10000px) {
+                                                                  
+                                                                                                                      .produtos58{
+                                                                                                                          height: 270px;
+                                                                                                                          width: 210px;
+                                                                                                                  
+                                                                                                                   
+                                                                                                                       }
+                                                                                                                   
+                                                                                                                   }
+                                                                                                                   
+                                                                                                              
+                                                                                                              
+                                                                                                                   
+                                                                                                                   @media (max-width: 1300px) {
+                                                                                                                   
+                                                                                                                       .produtos58{
+                                                                                                                          height: 270px;
+                                                                                                                      width: 210px;
+                                                                                                                           
+                                                                                                                    
+                                                                                                                        }
+                                                                                                                    
+                                                                                                                    }
+                                                                                                              
+                                                                                                               
+                                                                                                              
+                                                                                                              
+                                                                                                              
+                                                                                                              
+                                                                                                                   
+                                                                                                                    @media (max-width: 800px) {
+                                                                                                                   
+                                                                                                                       .produtos58{
+                                                                                                                          height: 150px;
+                                                                                                                          width: 100px;
+                                                                                                                          font-size: 10px;
+                                                                                                                          margin-right: 30px;
+                                                                                                                        }
+                                                                                                                      }
+                                                                                                               
+                                                                                                              
+                                                                                                              
+                                                                                                              
+                                                                                                              
+                                                                                                                      @media (max-width: 400px) {
+                                                                                                                   
+                                                                                                                          .produtos58{
+                                                                                                                             height: 100px;
+                                                                                                                             width: 75px;
+                                                                                                                             font-size: 15px;
+                                                                                                                             margin-right: 5px;
+                                                                                                                       
+                                                                                                                           }
+                                                                                                                         }
+                                                                                                              
+                                                                                                              
+                                                                                                                         @media (max-width: 200px) {
+                                                                                                                   
+                                                                                                                          .produtos58{
+                                                                                                                             height: 50px;
+                                                                                                                             width: 25px;
+                                                                                                                             font-size: 5px;
+                                                                                                                         margin-right: 0;
+                                                                                                                           }
+                                                                                                          
+                                                                                                                          }
+                                                                  
+                                                                  
+                                                                  
+                                                                  
+                                                                                                                          @media (max-width: 10000px) {
+                                                                  
+                                                                                                                              .produtos59{
+                                                                                                                                  height: 270px;
+                                                                                                                                  width: 210px;
+                                                                                                                          
+                                                                                                                           
+                                                                                                                               }
+                                                                                                                           
+                                                                                                                           }
+                                                                                                                           
+                                                                                                                      
+                                                                                                                      
+                                                                                                                           
+                                                                                                                           @media (max-width: 1300px) {
+                                                                                                                           
+                                                                                                                               .produtos59{
+                                                                                                                                  height: 270px;
+                                                                                                                              width: 210px;
+                                                                                                                                   
+                                                                                                                            
+                                                                                                                                }
+                                                                                                                            
+                                                                                                                            }
+                                                                                                                      
+                                                                                                                       
+                                                                                                                      
+                                                                                                                      
+                                                                                                                      
+                                                                                                                      
+                                                                                                                           
+                                                                                                                            @media (max-width: 800px) {
+                                                                                                                           
+                                                                                                                               .produtos59{
+                                                                                                                                  height: 150px;
+                                                                                                                                  width: 100px;
+                                                                                                                                  font-size: 10px;
+                                                                                                                            
+                                                                                                                                }
+                                                                                                                              }
+                                                                                                                       
+                                                                                                                      
+                                                                                                                      
+                                                                                                                      
+                                                                                                                      
+                                                                                                                              @media (max-width: 400px) {
+                                                                                                                           
+                                                                                                                                  .produtos59{
+                                                                                                                                     height: 100px;
+                                                                                                                                     width: 75px;
+                                                                                                                                     font-size: 15px;
+                                                                                                                                     margin-right: 5px;
+                                                                                                                               
+                                                                                                                                   }
+                                                                                                                                 }
+                                                                                                                      
+                                                                                                                      
+                                                                                                                                 @media (max-width: 200px) {
+                                                                                                                           
+                                                                                                                                  .produtos59{
+                                                                                                                                     height: 50px;
+                                                                                                                                     width: 25px;
+                                                                                                                                     font-size: 5px;
+                                                                                                                                 margin-right: 0;
+                                                                                                                                   }
+                                                                                                                  
+                                                                                                                                  }         
                                                                                                             
                                                                                                             
                                                                         
