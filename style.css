@@ -1,6 +1,11 @@
 
+h4 {
+  text-transform: uppercase;
+}
 
-
+h5{
+  color: rgba(0, 0, 0, 0.199);
+}
 
 
 
@@ -26,6 +31,7 @@
 
 .classes {
   margin-top: -3px;
+ 
 }
 
 
@@ -66,7 +72,9 @@ cursor: pointer;
  
 
 
-
+del>h4 {
+  color: rgba(0, 0, 0, 0.247);
+}
 
 
 
@@ -1366,6 +1374,13 @@ h6.p1:hover {
 
 }
 
+.moleton6 {
+  justify-content: center;
+      align-items: center;
+      display: flex;
+
+}
+
 .calsa3 {
   justify-content: center;
       align-items: center;
@@ -1413,6 +1428,15 @@ h6.p1:hover {
       align-items: center;
       display: flex;
 
+
+  
+}
+
+.moleton5 {
+  justify-content: center;
+      align-items: center;
+      display: flex;
+      background-image: radial-gradient(circle,rgba(0, 0, 0, 0.295),rgb(255, 255, 255));
 
   
 }
@@ -3211,7 +3235,7 @@ h6.p1:hover {
                                                                                      
                                                                                      }
                                                                                      
-                                                                                
+                                                                                  
                                                                                 
                                                                                      
                                                                                      @media (max-width: 1300px) {
@@ -7353,7 +7377,496 @@ h6.p1:hover {
                                                                                                                                  margin-right: 0;
                                                                                                                                    }
                                                                                                                   
-                                                                                                                                  }         
+                                                                                                                                  }  
+                                                                                                                                  
+                                                                                                                                  
+
+
+
+
+
+
+                                                                                                                                  .moletons5 {
+                                                                                                                                    width: 420px;
+                                                                                                                                    height: auto;
+                                                                                                                                    margin: 20px;
+                                                                                                                                    display: flex;
+                                                                                                                                    align-items: center;
+                                                                                                                                    justify-content: space-between;                         
+                                                                                                                               }
+                                                                                                                
+                                                                                                                
+                                                                                                                
+                                                                                                                               @media (max-width: 10000px) {
+                                                                                                                
+                                                                                                                                .moletons5{
+                                                                                                                                  
+                                                                                                                                    margin: 50px;
+                                                                                                                                    width: 900px;
+                                                                                                                            
+                                                                                                                             
+                                                                                                                                 }
+                                                                                                                             
+                                                                                                                             }
+                                                                                                                             
+                                                                                                                        
+                                                                                                                        
+                                                                                                                             
+                                                                                                                             @media (max-width: 1300px) {
+                                                                                                                             
+                                                                                                                                 .moletons5{
+                                                                                                                                  
+                                                                                                                                    margin: 35px;
+                                                                                                                                   width: 870px;
+                                                                                                                                  }
+                                                                                                                              
+                                                                                                                              }
+                                                                                                                        
+                                                                                                                         
+                                                                                                                        
+                                                                                                                        
+                                                                                                                        
+                                                                                                                        
+                                                                                                                             
+                                                                                                                              @media (max-width: 800px) {
+                                                                                                                             
+                                                                                                                                 .moletons5{
+                                                                                                                                    margin: 20px;
+                                                                                                                                   width: 420px;
+                                                                                                                                  }
+                                                                                                                                }
+                                                                                                                         
+                                                                                                                        
+                                                                                                                        
+                                                                                                                        
+                                                                                                                        
+                                                                                                                                @media (max-width: 400px) {
+                                                                                                                             
+                                                                                                                                    .moletons5{
+                                                                                                                                        margin: 10px;
+                                                                                                                                      width: 300px;
+                                                                                                                        
+                                                                                                                                 
+                                                                                                                                     }
+                                                                                                                                   }
+                                                                                                                        
+                                                                                                                        
+                                                                                                                                   @media (max-width: 200px) {
+                                                                                                                             
+                                                                                                                                    .moletons5{
+                                                                                                                                        margin: 5px;
+                                                                                                                                        width: 139px;
+                                                                                                                                     }
+                                                                                                                                   }          
+                                                                                        
+                                                                                        
+                                        
+                                                                                                                                   .produtos60 {
+                                                                                                                                    align-items: center;
+                                                                                                                                    width: auto;
+                                                                                                                                    height: auto;
+                                                                                                                                    background-color: rgb(252, 252, 252);
+                                                                                                                                    padding: 10px;
+                                                                                                                                    text-align: center;
+                                                                                                                                    margin-right: 100px;
+                                                                                                                                    box-shadow: 2px 1px 10px rgba(0, 0, 0, 0.199);
+                                                                                                                                }
+                                                                                                                                
+                                                                                                                                .produtos61 {
+                                                                                                                                    align-items: center;
+                                                                                                                                    width: auto;
+                                                                                                                                    height: auto;
+                                                                                                                                    background-color: rgb(252, 252, 252);
+                                                                                                                                    padding: 10px;
+                                                                                                                                    text-align: center;
+                                                                                                                                    margin-right: 100px;
+                                                                                                                                    box-shadow: 2px 1px 10px rgba(0, 0, 0, 0.199);
+                                                                                                                                }
+                                                                                                                                
+                                                                                                                                .produtos62 {
+                                                                                                                                    align-items: center;
+                                                                                                                                    width: auto;
+                                                                                                                                    height: auto;
+                                                                                                                                    background-color: rgb(252, 252, 252);
+                                                                                                                                    padding: 10px;
+                                                                                                                                    text-align: center;
+                                                                                                                                    margin-right: 100px;
+                                                                                                                                    box-shadow: 2px 1px 10px rgba(0, 0, 0, 0.199);
+                                                                                                                                }
+                                                                                        
+                                        
+                                        
+                                        
+                                        
+                                                                                                                                
+                                                                                                        @media (max-width: 10000px) {
+                                        
+                                                                                                            .produtos60{
+                                                                                                                height: 270px;
+                                                                                                                width: 210px;
+                                                                                                        
+                                                                                                         
+                                                                                                             }
+                                                                                                         
+                                                                                                         }
+                                                                                                         
+                                                                                                    
+                                                                                                    
+                                                                                                         
+                                                                                                         @media (max-width: 1300px) {
+                                                                                                         
+                                                                                                             .produtos60{
+                                                                                                                height: 270px;
+                                                                                                            width: 210px;
+                                                                                                                 
+                                                                                                          
+                                                                                                              }
+                                                                                                          
+                                                                                                          }
+                                                                                                    
+                                                                                                     
+                                                                                                    
+                                                                                                    
+                                                                                                    
+                                                                                                    
+                                                                                                         
+                                                                                                          @media (max-width: 800px) {
+                                                                                                         
+                                                                                                             .produtos60{
+                                                                                                                height: 150px;
+                                                                                                                width: 100px;
+                                                                                                                font-size: 10px;
+                                                                                                                margin-right: 30px;
+                                                                                                              }
+                                                                                                            }
+                                                                                                     
+                                                                                                    
+                                                                                                    
+                                                                                                    
+                                                                                                    
+                                                                                                            @media (max-width: 400px) {
+                                                                                                         
+                                                                                                                .produtos60{
+                                                                                                                   height: 100px;
+                                                                                                                   width: 75px;
+                                                                                                                   font-size: 15px;
+                                                                                                                   margin-right: 5px;
+                                                                                                             
+                                                                                                                 }
+                                                                                                               }
+                                                                                                    
+                                                                                                    
+                                                                                                               @media (max-width: 200px) {
+                                                                                                         
+                                                                                                                .produtos60{
+                                                                                                                   height: 50px;
+                                                                                                                   width: 25px;
+                                                                                                                   font-size: 5px;
+                                                                                                               margin-right: 0;
+                                                                                                                 }
+                                                                                                
+                                                                                                                }
+                                                                
+                                                                
+                                                                
+                                                                
+                                                                
+                                                                                                                @media (max-width: 10000px) {
+                                                                
+                                                                                                                    .produtos61{
+                                                                                                                        height: 270px;
+                                                                                                                        width: 210px;
+                                                                                                                
+                                                                                                                 
+                                                                                                                     }
+                                                                                                                 
+                                                                                                                 }
+                                                                                                                 
+                                                                                                            
+                                                                                                            
+                                                                                                                 
+                                                                                                                 @media (max-width: 1300px) {
+                                                                                                                 
+                                                                                                                     .produtos61{
+                                                                                                                        height: 270px;
+                                                                                                                    width: 210px;
+                                                                                                                         
+                                                                                                                  
+                                                                                                                      }
+                                                                                                                  
+                                                                                                                  }
+                                                                                                            
+                                                                                                             
+                                                                                                            
+                                                                                                            
+                                                                                                            
+                                                                                                            
+                                                                                                                 
+                                                                                                                  @media (max-width: 800px) {
+                                                                                                                 
+                                                                                                                     .produtos61{
+                                                                                                                        height: 150px;
+                                                                                                                        width: 100px;
+                                                                                                                        font-size: 10px;
+                                                                                                                        margin-right: 30px;
+                                                                                                                      }
+                                                                                                                    }
+                                                                                                             
+                                                                                                            
+                                                                                                            
+                                                                                                            
+                                                                                                            
+                                                                                                                    @media (max-width: 400px) {
+                                                                                                                 
+                                                                                                                        .produtos61{
+                                                                                                                           height: 100px;
+                                                                                                                           width: 75px;
+                                                                                                                           font-size: 15px;
+                                                                                                                           margin-right: 5px;
+                                                                                                                     
+                                                                                                                         }
+                                                                                                                       }
+                                                                                                            
+                                                                                                            
+                                                                                                                       @media (max-width: 200px) {
+                                                                                                                 
+                                                                                                                        .produtos61{
+                                                                                                                           height: 50px;
+                                                                                                                           width: 25px;
+                                                                                                                           font-size: 5px;
+                                                                                                                       margin-right: 0;
+                                                                                                                         }
+                                                                                                        
+                                                                                                                        }
+                                                                
+                                                                
+                                                                
+                                                                
+                                                                                                                        @media (max-width: 10000px) {
+                                                                
+                                                                                                                            .produtos62{
+                                                                                                                                height: 270px;
+                                                                                                                                width: 210px;
+                                                                                                                        
+                                                                                                                         
+                                                                                                                             }
+                                                                                                                         
+                                                                                                                         }
+                                                                                                                         
+                                                                                                                    
+                                                                                                                    
+                                                                                                                         
+                                                                                                                         @media (max-width: 1300px) {
+                                                                                                                         
+                                                                                                                             .produtos62{
+                                                                                                                                height: 270px;
+                                                                                                                            width: 210px;
+                                                                                                                                 
+                                                                                                                          
+                                                                                                                              }
+                                                                                                                          
+                                                                                                                          }
+                                                                                                                    
+                                                                                                                     
+                                                                                                                    
+                                                                                                                    
+                                                                                                                    
+                                                                                                                    
+                                                                                                                         
+                                                                                                                          @media (max-width: 800px) {
+                                                                                                                         
+                                                                                                                             .produtos62{
+                                                                                                                                height: 150px;
+                                                                                                                                width: 100px;
+                                                                                                                                font-size: 10px;
+                                                                                                                          
+                                                                                                                              }
+                                                                                                                            }
+                                                                                                                     
+                                                                                                                    
+                                                                                                                    
+                                                                                                                    
+                                                                                                                    
+                                                                                                                            @media (max-width: 400px) {
+                                                                                                                         
+                                                                                                                                .produtos62{
+                                                                                                                                   height: 100px;
+                                                                                                                                   width: 75px;
+                                                                                                                                   font-size: 15px;
+                                                                                                                                   margin-right: 5px;
+                                                                                                                             
+                                                                                                                                 }
+                                                                                                                               }
+                                                                                                                    
+                                                                                                                    
+                                                                                                                               @media (max-width: 200px) {
+                                                                                                                         
+                                                                                                                                .produtos62{
+                                                                                                                                   height: 50px;
+                                                                                                                                   width: 25px;
+                                                                                                                                   font-size: 5px;
+                                                                                                                               margin-right: 0;
+                                                                                                                                 }
+                                                                                                                
+                                                                                                                                }     
+                                                                                                                                
+                                                                                                                                
+                                                                                                                                .moletons6 {
+                                                                                                                                  width: 420px;
+                                                                                                                                  height: auto;
+                                                                                                                                  margin: 20px;
+                                                                                                                                  display: flex;
+                                                                                                                                  align-items: center;
+                                                                                                                                  justify-content: center;
+                                                                                                               
+                                                                                                                             }
+                                                                                                              
+                                                                                                              
+                                                                                                              
+                                                                                                                             @media (max-width: 10000px) {
+                                                                                                              
+                                                                                                                              .moletons6{
+                                                                                                                                
+                                                                                                                                  margin: 50px;
+                                                                                                                                  width: 900px;
+                                                                                                                          
+                                                                                                                           
+                                                                                                                               }
+                                                                                                                           
+                                                                                                                           }
+                                                                                                                           
+                                                                                                                      
+                                                                                                                      
+                                                                                                                           
+                                                                                                                           @media (max-width: 1300px) {
+                                                                                                                           
+                                                                                                                               .moletons6{
+                                                                                                                                
+                                                                                                                                  margin: 35px;
+                                                                                                                                 width: 870px;
+                                                                                                                                }
+                                                                                                                            
+                                                                                                                            }
+                                                                                                                      
+                                                                                                                       
+                                                                                                                      
+                                                                                                                      
+                                                                                                                      
+                                                                                                                      
+                                                                                                                           
+                                                                                                                            @media (max-width: 800px) {
+                                                                                                                           
+                                                                                                                               .moletons6{
+                                                                                                                                  margin: 20px;
+                                                                                                                                 width: 420px;
+                                                                                                                                }
+                                                                                                                              }
+                                                                                                                       
+                                                                                                                      
+                                                                                                                      
+                                                                                                                      
+                                                                                                                      
+                                                                                                                              @media (max-width: 400px) {
+                                                                                                                           
+                                                                                                                                  .moletons6{
+                                                                                                                                      margin: 10px;
+                                                                                                                                    width: 300px;
+                                                                                                                      
+                                                                                                                               
+                                                                                                                                   }
+                                                                                                                                 }
+                                                                                                                      
+                                                                                                                      
+                                                                                                                                 @media (max-width: 200px) {
+                                                                                                                           
+                                                                                                                                  .moletons6{
+                                                                                                                                      margin: 5px;
+                                                                                                                                      width: 139px;
+                                                                                                                                   }
+                                                                                                                                 }
+                                                                                                              
+  
+                                                                                                                                 
+                                                                                                                                 .produtos63{
+                                                                                                                             
+                                                                                                                                  align-items: center;
+                                                                                                                                  width: auto;
+                                                                                                                                  height: auto;
+                                                                                                                                  background-color: rgb(252, 252, 252);
+                                                                                                                                  padding: 10px;
+                                                                                                                                  text-align: center;
+                                                                                                                                  box-shadow: 2px 1px 10px rgba(0, 0, 0, 0.199);
+                                                                                                                              }
+                                                                                                                              
+                                                                                                              
+                                                                                                                              @media (max-width: 10000px) {
+                                                                        
+                                                                                                                                .produtos63{
+                                                                                                                                    height: 270px;
+                                                                                                                                    width: 210px;
+                                                                                                                            
+                                                                                                                             
+                                                                                                                                 }
+                                                                                                                             
+                                                                                                                             }
+                                                                                                                             
+                                                                                                                        
+                                                                                                                        
+                                                                                                                             
+                                                                                                                             @media (max-width: 1300px) {
+                                                                                                                             
+                                                                                                                                 .produtos63{
+                                                                                                                                    height: 270px;
+                                                                                                                                width: 210px;
+                                                                                                                                margin-right: 0px;
+                                                                                                                              
+                                                                                                                                  }
+                                                                                                                              
+                                                                                                                              }
+                                                                                                                        
+                                                                                                                         
+                                                                                                                        
+                                                                                                                        
+                                                                                                                        
+                                                                                                                        
+                                                                                                                             
+                                                                                                                              @media (max-width: 800px) {
+                                                                                                                             
+                                                                                                                                 .produtos63{
+                                                                                                                                    height: 150px;
+                                                                                                                                    width: 100px;
+                                                                                                                                    font-size: 10px;
+                                                                                                                                   margin-right: 0px;
+                                                                                                                                  }
+                                                                                                                                }
+                                                                                                                         
+                                                                                                                        
+                                                                                                                        
+                                                                                                                        
+                                                                                                                        
+                                                                                                                                @media (max-width: 400px) {
+                                                                                                                             
+                                                                                                                                    .produtos63{
+                                                                                                                                       height: 100px;
+                                                                                                                                       width: 75px;
+                                                                                                                                       font-size: 15px;
+                                                                                                            
+                                                                                                                                 
+                                                                                                                                     }
+                                                                                                                                   }
+                                                                                                                        
+                                                                                                                        
+                                                                                                                                   @media (max-width: 200px) {
+                                                                                                                             
+                                                                                                                                    .produtos63{
+                                                                                                                                       height: 50px;
+                                                                                                                                       width: 25px;
+                                                                                                                                       font-size: 5px;
+                                                                                                                      
+                                                                                                                                     }
+                                                                                                                    
+                                                                                                                                    }  
+                                                                                                          
                                                                                                             
                                                                                                             
                                                                         
