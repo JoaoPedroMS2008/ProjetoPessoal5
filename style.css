@@ -7,6 +7,10 @@ h5{
   color: rgba(0, 0, 0, 0.199);
 }
 
+.nov {
+  color: rgb(0, 255, 34);
+  background-image: radial-gradient(circle, rgba(3, 255, 45, 0.308), white);
+}
 
 
 
@@ -1518,6 +1522,23 @@ h6.p1:hover {
       align-items: center;
       display: flex;
       background-image: radial-gradient(circle,rgba(0, 0, 0, 0.295),rgb(255, 255, 255));
+
+}
+
+.novidade1 {
+  justify-content: center;
+      align-items: center;
+      display: flex;
+      background-image: radial-gradient(circle,rgba(43, 255, 0, 0.295),rgb(255, 255, 255));
+
+}
+
+.novidade2 {
+  justify-content: center;
+      align-items: center;
+      display: flex;
+      background-image: radial-gradient(circle,rgba(43, 255, 0, 0.295),rgb(255, 255, 255));
+   
 
 }
 
@@ -7874,8 +7895,657 @@ h6.p1:hover {
 
 
 
+                                                                                                                                    .novidades1 {
+                                                                                                                                      width: 420px;
+                                                                                                                                      height: auto;
+                                                                                                                                      margin: 20px;
+                                                                                                                                      display: flex;
+                                                                                                                                      align-items: center;
+                                                                                                                                      justify-content: space-between;                         
+                                                                                                                                 }
+                                                                                                                  
+                                                                                                                  
+                                                                                                                  
+                                                                                                                                 @media (max-width: 10000px) {
+                                                                                                                  
+                                                                                                                                  .novidades1{
+                                                                                                                                    
+                                                                                                                                      margin: 50px;
+                                                                                                                                      width: 900px;
+                                                                                                                              
+                                                                                                                               
+                                                                                                                                   }
+                                                                                                                               
+                                                                                                                               }
+                                                                                                                               
+                                                                                                                          
+                                                                                                                          
+                                                                                                                               
+                                                                                                                               @media (max-width: 1300px) {
+                                                                                                                               
+                                                                                                                                   .novidades1{
+                                                                                                                                    
+                                                                                                                                      margin: 35px;
+                                                                                                                                     width: 870px;
+                                                                                                                                    }
+                                                                                                                                
+                                                                                                                                }
+                                                                                                                          
+                                                                                                                           
+                                                                                                                          
+                                                                                                                          
+                                                                                                                          
+                                                                                                                          
+                                                                                                                               
+                                                                                                                                @media (max-width: 800px) {
+                                                                                                                               
+                                                                                                                                   .novidades1{
+                                                                                                                                      margin: 20px;
+                                                                                                                                     width: 420px;
+                                                                                                                                    }
+                                                                                                                                  }
+                                                                                                                           
+                                                                                                                          
+                                                                                                                          
+                                                                                                                          
+                                                                                                                          
+                                                                                                                                  @media (max-width: 400px) {
+                                                                                                                               
+                                                                                                                                      .novidades1{
+                                                                                                                                          margin: 10px;
+                                                                                                                                        width: 300px;
+                                                                                                                          
+                                                                                                                                   
+                                                                                                                                       }
+                                                                                                                                     }
+                                                                                                                          
+                                                                                                                          
+                                                                                                                                     @media (max-width: 200px) {
+                                                                                                                               
+                                                                                                                                      .novidades1{
+                                                                                                                                          margin: 5px;
+                                                                                                                                          width: 139px;
+                                                                                                                                       }
+                                                                                                                                     }          
+                                                                                          
+                                                                                          
+                                                                                                                                     .produtosNov1 {
+                                                                                                                                      align-items: center;
+                                                                                                                                      width: auto;
+                                                                                                                                      height: auto;
+                                                                                                                                      background-color: rgb(252, 252, 252);
+                                                                                                                                      padding: 10px;
+                                                                                                                                      text-align: center;
+                                                                                                                                      margin-right: 100px;
+                                                                                                                                      box-shadow: 2px 1px 10px rgba(0, 0, 0, 0.199);
+                                                                                                                                  }
+                                                                                                                                  
+                                                                                                                                  .produtosNov2 {
+                                                                                                                                      align-items: center;
+                                                                                                                                      width: auto;
+                                                                                                                                      height: auto;
+                                                                                                                                      background-color: rgb(252, 252, 252);
+                                                                                                                                      padding: 10px;
+                                                                                                                                      text-align: center;
+                                                                                                                                      margin-right: 100px;
+                                                                                                                                      box-shadow: 2px 1px 10px rgba(0, 0, 0, 0.199);
+                                                                                                                                  }
+                                                                                                                                  
+                                                                                                                                  .produtosNov3 {
+                                                                                                                                      align-items: center;
+                                                                                                                                      width: auto;
+                                                                                                                                      height: auto;
+                                                                                                                                      background-color: rgb(252, 252, 252);
+                                                                                                                                      padding: 10px;
+                                                                                                                                      text-align: center;
+                                                                                                                                      margin-right: 100px;
+                                                                                                                                      box-shadow: 2px 1px 10px rgba(0, 0, 0, 0.199);
+                                                                                                                                  }
+                                                                                          
+                                          
+                                          
+                                          
+                                          
+                                                                                                                                  
+                                                                                                          @media (max-width: 10000px) {
+                                          
+                                                                                                              .produtosNov1{
+                                                                                                                  height: 270px;
+                                                                                                                  width: 210px;
+                                                                                                          
+                                                                                                           
+                                                                                                               }
+                                                                                                           
+                                                                                                           }
+                                                                                                           
+                                                                                                      
+                                                                                                      
+                                                                                                           
+                                                                                                           @media (max-width: 1300px) {
+                                                                                                           
+                                                                                                               .produtosNov1{
+                                                                                                                  height: 270px;
+                                                                                                              width: 210px;
+                                                                                                                   
+                                                                                                            
+                                                                                                                }
+                                                                                                            
+                                                                                                            }
+                                                                                                      
+                                                                                                       
+                                                                                                      
+                                                                                                      
+                                                                                                      
+                                                                                                      
+                                                                                                           
+                                                                                                            @media (max-width: 800px) {
+                                                                                                           
+                                                                                                               .produtosNov1{
+                                                                                                                  height: 150px;
+                                                                                                                  width: 100px;
+                                                                                                                  font-size: 10px;
+                                                                                                                  margin-right: 30px;
+                                                                                                                }
+                                                                                                              }
+                                                                                                       
+                                                                                                      
+                                                                                                      
+                                                                                                      
+                                                                                                      
+                                                                                                              @media (max-width: 400px) {
+                                                                                                           
+                                                                                                                  .produtosNov1{
+                                                                                                                     height: 100px;
+                                                                                                                     width: 75px;
+                                                                                                                     font-size: 15px;
+                                                                                                                     margin-right: 5px;
+                                                                                                               
+                                                                                                                   }
+                                                                                                                 }
+                                                                                                      
+                                                                                                      
+                                                                                                                 @media (max-width: 200px) {
+                                                                                                           
+                                                                                                                  .produtosNov1{
+                                                                                                                     height: 50px;
+                                                                                                                     width: 25px;
+                                                                                                                     font-size: 5px;
+                                                                                                                 margin-right: 0;
+                                                                                                                   }
+                                                                                                  
+                                                                                                                  }
+                                                                  
+                                                                  
+                                                                  
+                                                                  
+                                                                  
+                                                                                                                  @media (max-width: 10000px) {
+                                                                  
+                                                                                                                      .produtosNov2{
+                                                                                                                          height: 270px;
+                                                                                                                          width: 210px;
+                                                                                                                  
+                                                                                                                   
+                                                                                                                       }
+                                                                                                                   
+                                                                                                                   }
+                                                                                                                   
+                                                                                                              
+                                                                                                              
+                                                                                                                   
+                                                                                                                   @media (max-width: 1300px) {
+                                                                                                                   
+                                                                                                                       .produtosNov2{
+                                                                                                                          height: 270px;
+                                                                                                                      width: 210px;
+                                                                                                                           
+                                                                                                                    
+                                                                                                                        }
+                                                                                                                    
+                                                                                                                    }
+                                                                                                              
+                                                                                                               
+                                                                                                              
+                                                                                                              
+                                                                                                              
+                                                                                                              
+                                                                                                                   
+                                                                                                                    @media (max-width: 800px) {
+                                                                                                                   
+                                                                                                                       .produtosNov2{
+                                                                                                                          height: 150px;
+                                                                                                                          width: 100px;
+                                                                                                                          font-size: 10px;
+                                                                                                                          margin-right: 30px;
+                                                                                                                        }
+                                                                                                                      }
+                                                                                                               
+                                                                                                              
+                                                                                                              
+                                                                                                              
+                                                                                                              
+                                                                                                                      @media (max-width: 400px) {
+                                                                                                                   
+                                                                                                                          .produtosNov2{
+                                                                                                                             height: 100px;
+                                                                                                                             width: 75px;
+                                                                                                                             font-size: 15px;
+                                                                                                                             margin-right: 5px;
+                                                                                                                       
+                                                                                                                           }
+                                                                                                                         }
+                                                                                                              
+                                                                                                              
+                                                                                                                         @media (max-width: 200px) {
+                                                                                                                   
+                                                                                                                          .produtosNov2{
+                                                                                                                             height: 50px;
+                                                                                                                             width: 25px;
+                                                                                                                             font-size: 5px;
+                                                                                                                         margin-right: 0;
+                                                                                                                           }
+                                                                                                          
+                                                                                                                          }
+                                                                  
+                                                                  
+                                                                  
+                                                                  
+                                                                                                                          @media (max-width: 10000px) {
+                                                                  
+                                                                                                                              .produtosNov3{
+                                                                                                                                  height: 270px;
+                                                                                                                                  width: 210px;
+                                                                                                                          
+                                                                                                                           
+                                                                                                                               }
+                                                                                                                           
+                                                                                                                           }
+                                                                                                                           
+                                                                                                                      
+                                                                                                                      
+                                                                                                                           
+                                                                                                                           @media (max-width: 1300px) {
+                                                                                                                           
+                                                                                                                               .produtosNov3{
+                                                                                                                                  height: 270px;
+                                                                                                                              width: 210px;
+                                                                                                                                   
+                                                                                                                            
+                                                                                                                                }
+                                                                                                                            
+                                                                                                                            }
+                                                                                                                      
+                                                                                                                       
+                                                                                                                      
+                                                                                                                      
+                                                                                                                      
+                                                                                                                      
+                                                                                                                           
+                                                                                                                            @media (max-width: 800px) {
+                                                                                                                           
+                                                                                                                               .produtosNov3{
+                                                                                                                                  height: 150px;
+                                                                                                                                  width: 100px;
+                                                                                                                                  font-size: 10px;
+                                                                                                                            
+                                                                                                                                }
+                                                                                                                              }
+                                                                                                                       
+                                                                                                                      
+                                                                                                                      
+                                                                                                                      
+                                                                                                                      
+                                                                                                                              @media (max-width: 400px) {
+                                                                                                                           
+                                                                                                                                  .produtosNov3{
+                                                                                                                                     height: 100px;
+                                                                                                                                     width: 75px;
+                                                                                                                                     font-size: 15px;
+                                                                                                                                     margin-right: 5px;
+                                                                                                                               
+                                                                                                                                   }
+                                                                                                                                 }
+                                                                                                                      
+                                                                                                                      
+                                                                                                                                 @media (max-width: 200px) {
+                                                                                                                           
+                                                                                                                                  .produtosNov3{
+                                                                                                                                     height: 50px;
+                                                                                                                                     width: 25px;
+                                                                                                                                     font-size: 5px;
+                                                                                                                                 margin-right: 0;
+                                                                                                                                   }
+                                                                                                                  
+                                                                                                                                  }         
 
 
+
+
+                                                                                                                                  .novidades2 {
+                                                                                                                                    width: 420px;
+                                                                                                                                    height: auto;
+                                                                                                                                    margin: 20px;
+                                                                                                                                    display: flex;
+                                                                                                                                    align-items: center;
+                                                                                                                                    justify-content: space-between;                         
+                                                                                                                               }
+                                                                                                                
+                                                                                                                
+                                                                                                                
+                                                                                                                               @media (max-width: 10000px) {
+                                                                                                                
+                                                                                                                                .novidades2{
+                                                                                                                                  
+                                                                                                                                    margin: 50px;
+                                                                                                                                    width: 900px;
+                                                                                                                            
+                                                                                                                             
+                                                                                                                                 }
+                                                                                                                             
+                                                                                                                             }
+                                                                                                                             
+                                                                                                                        
+                                                                                                                        
+                                                                                                                             
+                                                                                                                             @media (max-width: 1300px) {
+                                                                                                                             
+                                                                                                                                 .novidades2{
+                                                                                                                                  
+                                                                                                                                    margin: 35px;
+                                                                                                                                   width: 870px;
+                                                                                                                                  }
+                                                                                                                              
+                                                                                                                              }
+                                                                                                                        
+                                                                                                                         
+                                                                                                                        
+                                                                                                                        
+                                                                                                                        
+                                                                                                                        
+                                                                                                                             
+                                                                                                                              @media (max-width: 800px) {
+                                                                                                                             
+                                                                                                                                 .novidades2{
+                                                                                                                                    margin: 20px;
+                                                                                                                                   width: 420px;
+                                                                                                                                  }
+                                                                                                                                }
+                                                                                                                         
+                                                                                                                        
+                                                                                                                        
+                                                                                                                        
+                                                                                                                        
+                                                                                                                                @media (max-width: 400px) {
+                                                                                                                             
+                                                                                                                                    .novidades2{
+                                                                                                                                        margin: 10px;
+                                                                                                                                      width: 300px;
+                                                                                                                        
+                                                                                                                                 
+                                                                                                                                     }
+                                                                                                                                   }
+                                                                                                                        
+                                                                                                                        
+                                                                                                                                   @media (max-width: 200px) {
+                                                                                                                             
+                                                                                                                                    .novidades2{
+                                                                                                                                        margin: 5px;
+                                                                                                                                        width: 139px;
+                                                                                                                                     }
+                                                                                                                                   }          
+                                                                                        
+                                                                                        
+                                                                                                                                   .produtosNov4 {
+                                                                                                                                    align-items: center;
+                                                                                                                                    width: auto;
+                                                                                                                                    height: auto;
+                                                                                                                                    background-color: rgb(252, 252, 252);
+                                                                                                                                    padding: 10px;
+                                                                                                                                    text-align: center;
+                                                                                                                                    margin-right: 100px;
+                                                                                                                                    box-shadow: 2px 1px 10px rgba(0, 0, 0, 0.199);
+                                                                                                                                }
+                                                                                                                                
+                                                                                                                                .produtosNov5 {
+                                                                                                                                    align-items: center;
+                                                                                                                                    width: auto;
+                                                                                                                                    height: auto;
+                                                                                                                                    background-color: rgb(252, 252, 252);
+                                                                                                                                    padding: 10px;
+                                                                                                                                    text-align: center;
+                                                                                                                                    margin-right: 100px;
+                                                                                                                                    box-shadow: 2px 1px 10px rgba(0, 0, 0, 0.199);
+                                                                                                                                }
+                                                                                                                                
+                                                                                                                                .produtosNov6 {
+                                                                                                                                    align-items: center;
+                                                                                                                                    width: auto;
+                                                                                                                                    height: auto;
+                                                                                                                                    background-color: rgb(252, 252, 252);
+                                                                                                                                    padding: 10px;
+                                                                                                                                    text-align: center;
+                                                                                                                                    margin-right: 100px;
+                                                                                                                                    box-shadow: 2px 1px 10px rgba(0, 0, 0, 0.199);
+                                                                                                                                }
+                                                                                        
+                                        
+                                        
+                                        
+                                        
+                                                                                                                                
+                                                                                                        @media (max-width: 10000px) {
+                                        
+                                                                                                            .produtosNov4{
+                                                                                                                height: 270px;
+                                                                                                                width: 210px;
+                                                                                                        
+                                                                                                         
+                                                                                                             }
+                                                                                                         
+                                                                                                         }
+                                                                                                         
+                                                                                                    
+                                                                                                    
+                                                                                                         
+                                                                                                         @media (max-width: 1300px) {
+                                                                                                         
+                                                                                                             .produtosNov4{
+                                                                                                                height: 270px;
+                                                                                                            width: 210px;
+                                                                                                                 
+                                                                                                          
+                                                                                                              }
+                                                                                                          
+                                                                                                          }
+                                                                                                    
+                                                                                                     
+                                                                                                    
+                                                                                                    
+                                                                                                    
+                                                                                                    
+                                                                                                         
+                                                                                                          @media (max-width: 800px) {
+                                                                                                         
+                                                                                                             .produtosNov4{
+                                                                                                                height: 150px;
+                                                                                                                width: 100px;
+                                                                                                                font-size: 10px;
+                                                                                                                margin-right: 30px;
+                                                                                                              }
+                                                                                                            }
+                                                                                                     
+                                                                                                    
+                                                                                                    
+                                                                                                    
+                                                                                                    
+                                                                                                            @media (max-width: 400px) {
+                                                                                                         
+                                                                                                                .produtosNov4{
+                                                                                                                   height: 100px;
+                                                                                                                   width: 75px;
+                                                                                                                   font-size: 15px;
+                                                                                                                   margin-right: 5px;
+                                                                                                             
+                                                                                                                 }
+                                                                                                               }
+                                                                                                    
+                                                                                                    
+                                                                                                               @media (max-width: 200px) {
+                                                                                                         
+                                                                                                                .produtosNov4{
+                                                                                                                   height: 50px;
+                                                                                                                   width: 25px;
+                                                                                                                   font-size: 5px;
+                                                                                                               margin-right: 0;
+                                                                                                                 }
+                                                                                                
+                                                                                                                }
+                                                                
+                                                                
+                                                                
+                                                                
+                                                                
+                                                                                                                @media (max-width: 10000px) {
+                                                                
+                                                                                                                    .produtosNov5{
+                                                                                                                        height: 270px;
+                                                                                                                        width: 210px;
+                                                                                                                
+                                                                                                                 
+                                                                                                                     }
+                                                                                                                 
+                                                                                                                 }
+                                                                                                                 
+                                                                                                            
+                                                                                                            
+                                                                                                                 
+                                                                                                                 @media (max-width: 1300px) {
+                                                                                                                 
+                                                                                                                     .produtosNov5{
+                                                                                                                        height: 270px;
+                                                                                                                    width: 210px;
+                                                                                                                         
+                                                                                                                  
+                                                                                                                      }
+                                                                                                                  
+                                                                                                                  }
+                                                                                                            
+                                                                                                             
+                                                                                                            
+                                                                                                            
+                                                                                                            
+                                                                                                            
+                                                                                                                 
+                                                                                                                  @media (max-width: 800px) {
+                                                                                                                 
+                                                                                                                     .produtosNov5{
+                                                                                                                        height: 150px;
+                                                                                                                        width: 100px;
+                                                                                                                        font-size: 10px;
+                                                                                                                        margin-right: 30px;
+                                                                                                                      }
+                                                                                                                    }
+                                                                                                             
+                                                                                                            
+                                                                                                            
+                                                                                                            
+                                                                                                            
+                                                                                                                    @media (max-width: 400px) {
+                                                                                                                 
+                                                                                                                        .produtosNov5{
+                                                                                                                           height: 100px;
+                                                                                                                           width: 75px;
+                                                                                                                           font-size: 15px;
+                                                                                                                           margin-right: 5px;
+                                                                                                                     
+                                                                                                                         }
+                                                                                                                       }
+                                                                                                            
+                                                                                                            
+                                                                                                                       @media (max-width: 200px) {
+                                                                                                                 
+                                                                                                                        .produtosNov5{
+                                                                                                                           height: 50px;
+                                                                                                                           width: 25px;
+                                                                                                                           font-size: 5px;
+                                                                                                                       margin-right: 0;
+                                                                                                                         }
+                                                                                                        
+                                                                                                                        }
+                                                                
+                                                                
+                                                                
+                                                                
+                                                                                                                        @media (max-width: 10000px) {
+                                                                
+                                                                                                                            .produtosNov6{
+                                                                                                                                height: 270px;
+                                                                                                                                width: 210px;
+                                                                                                                        
+                                                                                                                         
+                                                                                                                             }
+                                                                                                                         
+                                                                                                                         }
+                                                                                                                         
+                                                                                                                    
+                                                                                                                    
+                                                                                                                         
+                                                                                                                         @media (max-width: 1300px) {
+                                                                                                                         
+                                                                                                                             .produtosNov6{
+                                                                                                                                height: 270px;
+                                                                                                                            width: 210px;
+                                                                                                                                 
+                                                                                                                          
+                                                                                                                              }
+                                                                                                                          
+                                                                                                                          }
+                                                                                                                    
+                                                                                                                     
+                                                                                                                    
+                                                                                                                    
+                                                                                                                    
+                                                                                                                    
+                                                                                                                         
+                                                                                                                          @media (max-width: 800px) {
+                                                                                                                         
+                                                                                                                             .produtosNov6{
+                                                                                                                                height: 150px;
+                                                                                                                                width: 100px;
+                                                                                                                                font-size: 10px;
+                                                                                                                          
+                                                                                                                              }
+                                                                                                                            }
+                                                                                                                     
+                                                                                                                    
+                                                                                                                    
+                                                                                                                    
+                                                                                                                    
+                                                                                                                            @media (max-width: 400px) {
+                                                                                                                         
+                                                                                                                                .produtosNov6{
+                                                                                                                                   height: 100px;
+                                                                                                                                   width: 75px;
+                                                                                                                                   font-size: 15px;
+                                                                                                                                   margin-right: 5px;
+                                                                                                                             
+                                                                                                                                 }
+                                                                                                                               }
+                                                                                                                    
+                                                                                                                    
+                                                                                                                               @media (max-width: 200px) {
+                                                                                                                         
+                                                                                                                                .produtosNov6{
+                                                                                                                                   height: 50px;
+                                                                                                                                   width: 25px;
+                                                                                                                                   font-size: 5px;
+                                                                                                                               margin-right: 0;
+                                                                                                                                 }
+                                                                                                                
+                                                                                                                                }         
+
+                                                                                                                          
+          
                                                                                                                             
             
             
