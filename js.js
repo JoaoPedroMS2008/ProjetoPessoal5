@@ -2544,7 +2544,7 @@ function produtoNov1() {
   
   
       
-  location.href = 'https://s.shopee.com.br/7AJfD2D2oA?share_channel_code=1'
+  location.href = 'https://s.shopee.com.br/9pKXcaCR9D?share_channel_code=1'
   
 }
 
@@ -2596,7 +2596,7 @@ function produtoNov2() {
 
 
     
-  location.href = 'https://s.shopee.com.br/2AuuTnOLfG?share_channel_code=1'
+  location.href = 'https://s.shopee.com.br/4Kzb2ls7sM?share_channel_code=1'
   
 }
 
@@ -2647,7 +2647,7 @@ function produtoNov3() {
 
 
     
-  location.href = 'https://s.shopee.com.br/3fjn2keTAZ?share_channel_code=1'
+  location.href = 'https://s.shopee.com.br/7AJmQ6MVdZ?share_channel_code=1'
   
 }
 
@@ -2700,7 +2700,7 @@ function produtoNov4() {
 
 
     
-  location.href = 'https://s.shopee.com.br/3q3DF8xoVp?share_channel_code=1'
+  location.href = 'https://s.shopee.com.br/20bgGs078X?share_channel_code=1'
   
 }
 
@@ -2750,7 +2750,7 @@ function produtoNov5() {
 
 
     
-  location.href = 'https://s.shopee.com.br/50FAdNi9JZ?share_channel_code=1'
+  location.href = 'https://s.shopee.com.br/30UDSpBDPn?share_channel_code=1'
   
 }
 
@@ -2810,7 +2810,7 @@ function produtoNov6() {
 
 
     
-  location.href = 'https://s.shopee.com.br/8Up4MZeaWY?share_channel_code=1'
+  location.href = 'https://s.shopee.com.br/2Av6TLLdEB?share_channel_code=1'
   
 }
 
